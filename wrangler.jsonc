@@ -2,23 +2,18 @@
   "name": "p5english",
   "compatibility_date": "2026-10-28",
   "main": "src/worker.js",
-  "ai": {
-    "binding": "AI"
-  },
   "assets": {
     "directory": "./dist",
     "binding": "ASSETS",
     "not_found_handling": "single-page-application",
-    "run_worker_first": ["/api/*"]
+    "run_worker_first": [
+      "/api/*"
+    ]
   },
   "kv_namespaces": [
     {
       "binding": "REPORTS",
       "id": "aae0c546dcfc477192f6ffefd9abef8d"
-    },
-    {
-      "binding": "TTS_CACHE",
-      "id": "3d3b2c7a3db8468ea35659af25260f98"
     }
   ]
 }

@@ -1,6 +1,7 @@
 /**
  * Cloudflare Worker: SPA assets + same-origin image proxy for canvas share cards.
  * GET /api/img?u=<encoded absolute http(s) URL>
+ * GET|POST /api/speak  → 410 Gone (TTS is static Edge-TTS under /audio/)
  * POST /api/report-image  JSON { url, wordId?, word?, ... }
  * GET /api/reported-images  → { urls: string[] }
  * GET /api/img-ok?u=<url>  → { ok: boolean }  (ok=false if reported)
@@ -678,7 +679,13 @@ export default {
       return proxyImage(request, url);
     }
     if (url.pathname === '/api/speak') {
-      return speakText(request, env, url);
+      return new Response(
+        JSON.stringify({
+          error: 'gone',
+          message: 'TTS is served as static Edge-TTS MP3s under /audio/w/ and /audio/e/. Cloudflare Workers AI is not used.',
+        }),
+        { status: 410, headers: { ...corsHeaders(), 'Content-Type': 'application/json' } },
+      );
     }
     if (url.pathname === '/api/report-image') {
       return handleReportImage(request, env);

@@ -13,6 +13,7 @@ Cute, colourful **Primary 5 English spelling game** for Hong Kong kids — mobil
 - **Shareable PNG result card** (Web Share API + download / clipboard fallback), spoiler-free like bird/fish
 - Progress saved in `localStorage` for the same day
 - **8 hearts** — wrong answers cost a life; hearts gone ends the day’s remaining rounds
+- **Edge TTS** — word + example audio pre-generated with Microsoft `edge-tts` (`en-GB-SoniaNeural`), shipped as static MP3s under `/audio/w/` and `/audio/e/` (no Cloudflare Workers AI at runtime)
 
 ## Vocabulary source (EDB honesty)
 
@@ -35,6 +36,8 @@ npm install
 python3 scripts/build_words.py      # rebuild base src/words-data.json
 python3 scripts/add_examples.py     # examples + zh + reuse P4 images on overlap
 python3 scripts/enrich_images.py    # Wikimedia / Openverse images for remaining words
+python3 -m venv .venv && .venv/bin/pip install edge-tts
+.venv/bin/python scripts/generate_static_tts.py
 npm run dev
 ```
 
@@ -53,13 +56,12 @@ npx wrangler deploy
 
 Vite + vanilla JS, `wrangler.jsonc` SPA + `run_worker_first: ["/api/*"]`, Worker image proxy for canvas CORS.
 
-### TTS (`/api/speak`)
+### TTS (static Edge MP3s)
 
-Spoken words and example sentences are served as cached MP3s from the `TTS_CACHE` KV binding (R2 was not enabled on this account). Cache key: `sha256(v1|@cf/deepgram/aura-2-en|{speaker}|{normalized text})` → `tts/v1/{hash}.mp3`. On HIT the Worker returns audio with `X-TTS-Cache: HIT` and does **not** call Workers AI. On miss it may call Aura once and store (safety net). Prefill catalog:
+Word and example audio are pre-generated with Microsoft `edge-tts` (`en-GB-SoniaNeural`) into `public/audio/w/` and `public/audio/e/`, then shipped with the Vite build. `/api/speak` returns **410 Gone** — runtime does not use Workers AI or `TTS_CACHE` KV.
 
 ```bash
-python3 -m venv .venv && .venv/bin/pip install edge-tts
-.venv/bin/python scripts/backfill_tts.py --speakers asteria
+.venv/bin/python scripts/generate_static_tts.py
 ```
 
 Daily seed key: `p5english-daily-YYYY-MM-DD`.

@@ -73,6 +73,14 @@ let speakSession = 0;
 let speakPlayWait = null;
 /** Bumped to cancel in-flight auto word→example sequences. */
 let autoSpeakToken = 0;
+
+/** Static Edge-TTS MP3 path for a word or its example (pre-generated). */
+function staticAudioUrl(kind, wordId) {
+  const id = String(wordId || '').toLowerCase().replace(/[^a-z]/g, '');
+  if (!id || (kind !== 'w' && kind !== 'e')) return '';
+  return `/audio/${kind}/${id}.mp3`;
+}
+
 /** Last puzzle index that already started auto-speak this run. */
 let autoSpokeIndex = -1;
 
@@ -124,7 +132,7 @@ function cancelAutoSpeak() {
  */
 async function speakTextUi(text, btn, idleHtml, opts = {}) {
   const clean = String(text || '').trim();
-  if (!clean) return false;
+  if (!clean && !opts.audioUrl) return false;
   const silent = !!opts.silent;
   const session = ++speakSession;
   stopSpeakAudio();
@@ -135,16 +143,16 @@ async function speakTextUi(text, btn, idleHtml, opts = {}) {
     btn.innerHTML = `<span class="ico">⏳</span>${t('speakLoading')}`;
   }
   try {
-    const res = await fetch('/api/speak', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ text: clean }),
-    });
+    let url = String(opts.audioUrl || '').trim();
+    let revoke = false;
+    if (!url) {
+      // No Cloudflare AI TTS — static Edge-TTS assets only.
+      throw new Error('missing static audio');
+    }
+    // Probe once so missing files fail fast (avoid long broken play).
+    const head = await fetch(url, { method: 'GET', cache: 'force-cache' });
     if (session !== speakSession) return false;
-    if (!res.ok) throw new Error(`speak ${res.status}`);
-    const blob = await res.blob();
-    if (session !== speakSession) return false;
-    const url = URL.createObjectURL(blob);
+    if (!head.ok) throw new Error(`speak ${head.status}`);
     const audio = new Audio(url);
     speakAudio = audio;
     const playResult = await new Promise((resolve) => {
@@ -154,10 +162,12 @@ async function speakTextUi(text, btn, idleHtml, opts = {}) {
         if (speakPlayWait !== finish) return;
         settled = true;
         speakPlayWait = null;
-        try {
-          URL.revokeObjectURL(url);
-        } catch {
-          /* ignore */
+        if (revoke) {
+          try {
+            URL.revokeObjectURL(url);
+          } catch {
+            /* ignore */
+          }
         }
         if (speakAudio === audio) speakAudio = null;
         resolve(info);
@@ -186,17 +196,22 @@ async function speakTextUi(text, btn, idleHtml, opts = {}) {
   }
 }
 
-async function speakWord(word) {
+async function speakWord(word, wordId) {
   // Manual speak cancels any pending auto example
   autoSpeakToken += 1;
   const btn = main.querySelector('[data-act="speak"]');
-  await speakTextUi(word, btn, `<span class="ico">🔊</span>${t('speak')}`);
+  const id = wordId || word;
+  await speakTextUi(word, btn, `<span class="ico">🔊</span>${t('speak')}`, {
+    audioUrl: staticAudioUrl('w', id),
+  });
 }
 
-async function speakExample(sentence) {
+async function speakExample(sentence, wordId) {
   autoSpeakToken += 1;
   const btn = main.querySelector('[data-act="speak-example"]');
-  await speakTextUi(sentence, btn, `<span class="ico">🎧</span>${t('speakExample')}`);
+  await speakTextUi(sentence, btn, `<span class="ico">🎧</span>${t('speakExample')}`, {
+    audioUrl: staticAudioUrl('e', wordId),
+  });
 }
 
 /** Auto: word → wait 1s after end → example. Aborts if token changes / leave play / reveal. */
@@ -209,7 +224,7 @@ async function autoSpeakQuestion(puzzle, index) {
   const example = String(puzzle.example || '').trim();
   if (!word) return;
 
-  const played = await speakTextUi(word, null, '', { silent: true });
+  const played = await speakTextUi(word, null, '', { silent: true, audioUrl: staticAudioUrl('w', puzzle.id || puzzle.word) });
   if (token !== autoSpeakToken) return;
   if (!played) return; // autoplay blocked or failed — keep buttons available, no toast spam
   if (!example) return;
@@ -218,7 +233,7 @@ async function autoSpeakQuestion(puzzle, index) {
   if (token !== autoSpeakToken) return;
   if (state.revealed || state.view !== 'play' || state.index !== index) return;
 
-  await speakTextUi(example, null, '', { silent: true });
+  await speakTextUi(example, null, '', { silent: true, audioUrl: staticAudioUrl('e', puzzle.id || puzzle.word) });
 }
 
 function queueAutoSpeak() {
@@ -799,12 +814,14 @@ function renderPlay() {
   bindReportUi();
 
   main.querySelector('[data-act="speak"]')?.addEventListener('click', () => {
-    const w = currentPuzzle()?.word;
-    if (w) speakWord(w);
+    const p = currentPuzzle();
+    const w = p?.word;
+    if (w) speakWord(w, p?.id || w);
   });
   main.querySelector('[data-act="speak-example"]')?.addEventListener('click', () => {
-    const ex = currentPuzzle()?.example;
-    if (ex) speakExample(ex);
+    const p = currentPuzzle();
+    const ex = p?.example;
+    if (ex) speakExample(ex, p?.id || p?.word);
   });
 
   if (!state.revealed) {
