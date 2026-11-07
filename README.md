@@ -51,6 +51,15 @@ npx wrangler deploy
 
 ## Tech
 
-Vite + vanilla JS, `wrangler.jsonc` SPA + `run_worker_first: ["/api/*"]`, Worker image proxy for canvas CORS, Workers AI TTS.
+Vite + vanilla JS, `wrangler.jsonc` SPA + `run_worker_first: ["/api/*"]`, Worker image proxy for canvas CORS.
+
+### TTS (`/api/speak`)
+
+Spoken words and example sentences are served as cached MP3s from the `TTS_CACHE` KV binding (R2 was not enabled on this account). Cache key: `sha256(v1|@cf/deepgram/aura-2-en|{speaker}|{normalized text})` → `tts/v1/{hash}.mp3`. On HIT the Worker returns audio with `X-TTS-Cache: HIT` and does **not** call Workers AI. On miss it may call Aura once and store (safety net). Prefill catalog:
+
+```bash
+python3 -m venv .venv && .venv/bin/pip install edge-tts
+.venv/bin/python scripts/backfill_tts.py --speakers asteria
+```
 
 Daily seed key: `p5english-daily-YYYY-MM-DD`.

@@ -295,6 +295,97 @@ function sanitizeSpeakText(raw) {
   return text;
 }
 
+const AURA_MODEL = '@cf/deepgram/aura-2-en';
+const AURA_SPEAKERS = ['asteria', 'luna']; // asteria = clear female EN; luna = fallback
+const TTS_CACHE_VERSION = 'v1';
+
+async function sha256Hex(input) {
+  const data = new TextEncoder().encode(String(input));
+  const digest = await crypto.subtle.digest('SHA-256', data);
+  return [...new Uint8Array(digest)].map((b) => b.toString(16).padStart(2, '0')).join('');
+}
+
+/** Stable object key: hash(normalized text + voice + model). */
+async function ttsCacheKey(text, speaker, model = AURA_MODEL) {
+  const material = `${TTS_CACHE_VERSION}|${model}|${speaker}|${text}`;
+  const hash = await sha256Hex(material);
+  return `tts/${TTS_CACHE_VERSION}/${hash}.mp3`;
+}
+
+function detectAudioMime(bytes) {
+  let mime = 'audio/mpeg';
+  if (bytes && bytes.length >= 4) {
+    const isRiff =
+      bytes[0] === 0x52 && bytes[1] === 0x49 && bytes[2] === 0x46 && bytes[3] === 0x46;
+    const isId3 = bytes[0] === 0x49 && bytes[1] === 0x44 && bytes[2] === 0x33;
+    const isMp3Frame = bytes[0] === 0xff && (bytes[1] & 0xe0) === 0xe0;
+    if (isId3 || isMp3Frame) mime = 'audio/mpeg';
+    else if (isRiff) mime = 'audio/wav';
+  }
+  return mime;
+}
+
+function speakAudioHeaders(mime, cacheStatus, speaker) {
+  return corsHeaders({
+    'Content-Type': mime || 'audio/mpeg',
+    'Cache-Control': 'public, max-age=31536000, immutable',
+    'X-P5-Speak': '1',
+    'X-P5-TTS': 'aura-2-en',
+    'X-TTS-Cache': cacheStatus,
+    ...(speaker ? { 'X-TTS-Speaker': speaker } : {}),
+  });
+}
+
+async function ttsResultToBytes(result) {
+  if (result == null) return null;
+  if (typeof ReadableStream !== 'undefined' && result instanceof ReadableStream) {
+    const buf = await new Response(result).arrayBuffer();
+    return new Uint8Array(buf);
+  }
+  if (typeof Response !== 'undefined' && result instanceof Response) {
+    const buf = await result.arrayBuffer();
+    return new Uint8Array(buf);
+  }
+  if (result instanceof ArrayBuffer) return new Uint8Array(result);
+  if (result instanceof Uint8Array) return result;
+  if (result && typeof result === 'object') {
+    if (typeof result.audio === 'string') return b64ToBytes(result.audio);
+    if (result.audio instanceof ArrayBuffer) return new Uint8Array(result.audio);
+    if (result.audio instanceof Uint8Array) return result.audio;
+    if (typeof result.getReader === 'function') {
+      const buf = await new Response(result).arrayBuffer();
+      return new Uint8Array(buf);
+    }
+  }
+  if (typeof result === 'string') return b64ToBytes(result);
+  return null;
+}
+
+async function readTtsCache(env, key) {
+  if (!env.TTS_CACHE || !key) return null;
+  try {
+    const obj = await env.TTS_CACHE.get(key, { type: 'arrayBuffer' });
+    if (!obj || !obj.byteLength) return null;
+    return new Uint8Array(obj);
+  } catch {
+    return null;
+  }
+}
+
+async function writeTtsCache(env, key, bytes, mime) {
+  if (!env.TTS_CACHE || !key || !bytes || !bytes.byteLength) return;
+  try {
+    await env.TTS_CACHE.put(key, bytes, {
+      metadata: {
+        mime: mime || 'audio/mpeg',
+        storedAt: new Date().toISOString(),
+      },
+    });
+  } catch {
+    /* ignore store failures — still serve audio */
+  }
+}
+
 async function speakText(request, env, url) {
   if (request.method === 'OPTIONS') {
     return new Response(null, { status: 204, headers: corsHeaders() });
@@ -302,15 +393,15 @@ async function speakText(request, env, url) {
   if (request.method !== 'POST' && request.method !== 'GET') {
     return new Response('Method not allowed', { status: 405, headers: corsHeaders() });
   }
-  if (!env.AI) {
-    return new Response('AI binding missing', { status: 500, headers: corsHeaders() });
-  }
 
   let raw = url.searchParams.get('t') || '';
+  let voiceParam = (url.searchParams.get('voice') || url.searchParams.get('speaker') || '').trim().toLowerCase();
   if (request.method === 'POST') {
     try {
       const body = await request.json();
       if (body && typeof body.text === 'string') raw = body.text;
+      if (body && typeof body.voice === 'string') voiceParam = body.voice.trim().toLowerCase();
+      else if (body && typeof body.speaker === 'string') voiceParam = body.speaker.trim().toLowerCase();
     } catch {
       /* keep query fallback */
     }
@@ -320,11 +411,31 @@ async function speakText(request, env, url) {
     return new Response('Bad text', { status: 400, headers: corsHeaders() });
   }
 
-  // MeloTTS (@cf/myshell-ai/melotts) replaced by Deepgram Aura-2 (official CF TTS upgrade).
-  // Aura-2 often returns a ReadableStream of MPEG/mp3 audio directly.
-  const AURA_MODEL = '@cf/deepgram/aura-2-en';
-  const speakers = ['asteria', 'luna']; // asteria = clear female EN; luna = default fallback
+  // Prefer requested voice when valid; otherwise asteria → luna.
+  const speakers = AURA_SPEAKERS.includes(voiceParam)
+    ? [voiceParam, ...AURA_SPEAKERS.filter((s) => s !== voiceParam)]
+    : [...AURA_SPEAKERS];
+
+  // 1) Cache lookup (KV) — same text+voice → same object forever.
+  for (const speaker of speakers) {
+    const key = await ttsCacheKey(text, speaker);
+    const cached = await readTtsCache(env, key);
+    if (cached && cached.byteLength) {
+      const mime = detectAudioMime(cached);
+      return new Response(cached, {
+        status: 200,
+        headers: speakAudioHeaders(mime, 'HIT', speaker),
+      });
+    }
+  }
+
+  if (!env.AI) {
+    return new Response('AI binding missing', { status: 500, headers: corsHeaders() });
+  }
+
+  // 2) Cache miss → call Aura once, store MP3, return.
   let result;
+  let usedSpeaker = null;
   let lastErr = null;
   for (const speaker of speakers) {
     try {
@@ -333,6 +444,7 @@ async function speakText(request, env, url) {
         speaker,
         encoding: 'mp3',
       });
+      usedSpeaker = speaker;
       lastErr = null;
       break;
     } catch (err) {
@@ -347,71 +459,36 @@ async function speakText(request, env, url) {
         text,
         encoding: 'mp3',
       });
-    } catch {
-      return new Response('TTS failed', { status: 502, headers: corsHeaders() });
+      usedSpeaker = 'luna';
+    } catch (err) {
+      const msg = String(err && err.message ? err.message : err);
+      const exhausted = /neuron|allocation|429|rate/i.test(msg);
+      return new Response(exhausted ? 'TTS unavailable (AI quota)' : 'TTS failed', {
+        status: exhausted ? 503 : 502,
+        headers: corsHeaders({ 'X-TTS-Cache': 'MISS', 'X-TTS-Error': exhausted ? 'ai_quota' : 'ai_failed' }),
+      });
     }
   }
   if (result === undefined) {
-    return new Response('TTS failed', { status: 502, headers: corsHeaders() });
-  }
-
-  const audioHeaders = (mime) =>
-    corsHeaders({
-      'Content-Type': mime,
-      'Cache-Control': 'public, max-age=300',
-      'X-P5-Speak': '1',
-      'X-P5-TTS': 'aura-2-en',
+    return new Response('TTS failed', {
+      status: 502,
+      headers: corsHeaders({ 'X-TTS-Cache': 'MISS', 'X-TTS-Error': 'ai_failed' }),
     });
-
-  // ReadableStream (typical Aura-2 binding return) — stream mp3 through
-  if (typeof ReadableStream !== 'undefined' && result instanceof ReadableStream) {
-    return new Response(result, { status: 200, headers: audioHeaders('audio/mpeg') });
-  }
-  // Response body / already a Response
-  if (typeof Response !== 'undefined' && result instanceof Response) {
-    const mime =
-      (result.headers.get('content-type') || '').split(';')[0].trim() || 'audio/mpeg';
-    return new Response(result.body, { status: 200, headers: audioHeaders(mime) });
   }
 
-  let bytes;
-  if (result instanceof ArrayBuffer) {
-    bytes = new Uint8Array(result);
-  } else if (result instanceof Uint8Array) {
-    bytes = result;
-  } else if (result && typeof result === 'object') {
-    if (typeof result.audio === 'string') {
-      bytes = b64ToBytes(result.audio);
-    } else if (result.audio instanceof ArrayBuffer) {
-      bytes = new Uint8Array(result.audio);
-    } else if (result.audio instanceof Uint8Array) {
-      bytes = result.audio;
-    } else if (typeof result.getReader === 'function') {
-      // Duck-typed stream
-      return new Response(result, { status: 200, headers: audioHeaders('audio/mpeg') });
-    }
-  } else if (typeof result === 'string') {
-    bytes = b64ToBytes(result);
-  }
-
+  const bytes = await ttsResultToBytes(result);
   if (!bytes || !bytes.byteLength) {
     return new Response('Empty audio', { status: 502, headers: corsHeaders() });
   }
 
-  // Detect mime from magic bytes; Aura-2 with encoding:mp3 defaults to audio/mpeg
-  let mime = 'audio/mpeg';
-  if (bytes.length >= 4) {
-    const isRiff =
-      bytes[0] === 0x52 && bytes[1] === 0x49 && bytes[2] === 0x46 && bytes[3] === 0x46;
-    const isId3 = bytes[0] === 0x49 && bytes[1] === 0x44 && bytes[2] === 0x33;
-    const isMp3Frame = bytes[0] === 0xff && (bytes[1] & 0xe0) === 0xe0;
-    if (isId3 || isMp3Frame) mime = 'audio/mpeg';
-    else if (isRiff) mime = 'audio/wav';
-  }
+  const mime = detectAudioMime(bytes);
+  const storeSpeaker = usedSpeaker || speakers[0] || 'asteria';
+  const key = await ttsCacheKey(text, storeSpeaker);
+  await writeTtsCache(env, key, bytes, mime);
 
   return new Response(bytes, {
     status: 200,
-    headers: audioHeaders(mime),
+    headers: speakAudioHeaders(mime, 'MISS', storeSpeaker),
   });
 }
 
