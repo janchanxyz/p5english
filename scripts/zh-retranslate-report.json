@@ -1,0 +1,280 @@
+{
+  "at": "2026-11-07T06:18:08.844Z",
+  "base": "https://p4english.chanplanet.workers.dev",
+  "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+  "total": 502,
+  "updatedZh": 129,
+  "unchangedZh": 372,
+  "keptOldZh": 1,
+  "withExample": 498,
+  "samples": [
+    {
+      "word": "actor",
+      "before": "演員",
+      "after": "演員",
+      "example": "My father is an actor."
+    },
+    {
+      "word": "adult",
+      "before": "大人",
+      "after": "成人",
+      "example": "My mother is an adult."
+    },
+    {
+      "word": "afternoon",
+      "before": "下午",
+      "after": "下午",
+      "example": "I play soccer in the afternoon."
+    },
+    {
+      "word": "airplane",
+      "before": "飛機",
+      "after": "飛機",
+      "example": "We travel by airplane."
+    },
+    {
+      "word": "airport",
+      "before": "機場",
+      "after": "機場",
+      "example": "The airport is very big."
+    },
+    {
+      "word": "angry",
+      "before": "生氣的",
+      "after": "生氣的",
+      "example": "My brother is angry today."
+    },
+    {
+      "word": "animal",
+      "before": "動物",
+      "after": "動物",
+      "example": "I like the animal at the zoo."
+    },
+    {
+      "word": "answer",
+      "before": "答案",
+      "after": "答案",
+      "example": "The answer is on page ten."
+    },
+    {
+      "word": "apartment",
+      "before": "公寓",
+      "after": "單位",
+      "example": "My family lives in an apartment."
+    },
+    {
+      "word": "apple",
+      "before": "蘋果",
+      "after": "蘋果",
+      "example": "I eat an apple every day."
+    },
+    {
+      "word": "artist",
+      "before": "藝術家",
+      "after": "藝術家",
+      "example": "She is a famous artist."
+    },
+    {
+      "word": "autumn",
+      "before": "秋天",
+      "after": "秋天",
+      "example": "We play outside in autumn."
+    },
+    {
+      "word": "baby",
+      "before": "嬰兒",
+      "after": "嬰兒",
+      "example": "The baby is very cute."
+    },
+    {
+      "word": "backpack",
+      "before": "背囊",
+      "after": "背包",
+      "example": "I carry my books in a backpack."
+    },
+    {
+      "word": "badminton",
+      "before": "羽毛球",
+      "after": "羽毛球",
+      "example": "We play badminton at school."
+    },
+    {
+      "word": "bake",
+      "before": "焗",
+      "after": "烘焙",
+      "example": "My mother will bake a cake."
+    },
+    {
+      "word": "baker",
+      "before": "麵包師傅",
+      "after": "麵包師",
+      "example": "My father is a baker."
+    },
+    {
+      "word": "balloon",
+      "before": "氣球",
+      "after": "氣球",
+      "example": "The balloon is very big."
+    },
+    {
+      "word": "banana",
+      "before": "香蕉",
+      "after": "香蕉",
+      "example": "I eat a banana every day."
+    },
+    {
+      "word": "bank",
+      "before": "銀行",
+      "after": "銀行",
+      "example": "We go to the bank on Friday."
+    },
+    {
+      "word": "baseball",
+      "before": "棒球",
+      "after": "棒球",
+      "example": "The team plays baseball on Sunday."
+    },
+    {
+      "word": "basketball",
+      "before": "籃球",
+      "after": "籃球",
+      "example": "We play basketball in the park."
+    },
+    {
+      "word": "bathroom",
+      "before": "浴室",
+      "after": "浴室",
+      "example": "The bathroom is very clean."
+    },
+    {
+      "word": "beach",
+      "before": "沙灘",
+      "after": "海灘",
+      "example": "We swim at the beach in summer."
+    },
+    {
+      "word": "beautiful",
+      "before": "美麗的",
+      "after": "漂亮的",
+      "example": "The beautiful garden has many flowers."
+    }
+  ],
+  "failures": [
+    {
+      "word": "tshirt",
+      "zh": "T恤"
+    }
+  ],
+  "spotCheck": [
+    {
+      "word": "strawberry",
+      "before": "草莓",
+      "after": "士多啤梨",
+      "example": "I love eating strawberry ice cream."
+    },
+    {
+      "word": "bus",
+      "example": ""
+    },
+    {
+      "word": "taxi",
+      "before": "的士",
+      "after": "的士",
+      "example": "My mom takes a taxi to work."
+    },
+    {
+      "word": "computer",
+      "before": "電腦",
+      "after": "電腦",
+      "example": "We use a computer in class."
+    },
+    {
+      "word": "pizza",
+      "before": "披薩",
+      "after": "薄餅",
+      "example": "We eat pizza for dinner."
+    },
+    {
+      "word": "cookie",
+      "before": "曲奇",
+      "after": "曲奇",
+      "example": "I like to eat a cookie."
+    },
+    {
+      "word": "biscuit",
+      "before": "餅乾",
+      "after": "餅乾",
+      "example": "I like to eat biscuit with tea."
+    },
+    {
+      "word": "rubbish",
+      "example": ""
+    },
+    {
+      "word": "lift",
+      "example": ""
+    },
+    {
+      "word": "flat",
+      "example": ""
+    },
+    {
+      "word": "subway",
+      "before": "地下鐵",
+      "after": "地鐵",
+      "example": "We take the subway to go to school."
+    },
+    {
+      "word": "toilet",
+      "example": ""
+    },
+    {
+      "word": "football",
+      "before": "足球",
+      "after": "足球",
+      "example": "We play football at school."
+    },
+    {
+      "word": "apartment",
+      "before": "公寓",
+      "after": "單位",
+      "example": "My family lives in an apartment."
+    },
+    {
+      "word": "candy",
+      "before": "糖果",
+      "after": "糖果",
+      "example": "I love eating candy after dinner."
+    },
+    {
+      "word": "actor",
+      "before": "演員",
+      "after": "演員",
+      "example": "My father is an actor."
+    },
+    {
+      "word": "adult",
+      "before": "大人",
+      "after": "成人",
+      "example": "My mother is an adult."
+    },
+    {
+      "word": "airplane",
+      "before": "飛機",
+      "after": "飛機",
+      "example": "We travel by airplane."
+    },
+    {
+      "word": "blanket",
+      "before": "毯",
+      "after": "被子",
+      "example": "I use a blanket to keep warm."
+    },
+    {
+      "word": "brother",
+      "before": "兄弟",
+      "after": "兄弟",
+      "example": "My brother is very tall."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "p5english",
+  "compatibility_date": "2026-10-28",
+  "main": "src/worker.js",
+  "ai": {
+    "binding": "AI"
+  },
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": ["/api/*"]
+  }
+}

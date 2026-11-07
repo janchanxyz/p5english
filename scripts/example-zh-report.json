@@ -1,0 +1,110 @@
+{
+  "at": "2026-11-07T06:25:18.404Z",
+  "base": "https://p4english.chanplanet.workers.dev",
+  "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+  "total": 502,
+  "filled": 502,
+  "failures": [],
+  "samples": [
+    {
+      "word": "actor",
+      "example": "My father is an actor.",
+      "exampleZh": "我爸爸係演員。"
+    },
+    {
+      "word": "adult",
+      "example": "My mother is an adult.",
+      "exampleZh": "我媽媽係大人。"
+    },
+    {
+      "word": "afternoon",
+      "example": "I play soccer in the afternoon.",
+      "exampleZh": "我喺下午踢足球。"
+    },
+    {
+      "word": "airplane",
+      "example": "We travel by airplane.",
+      "exampleZh": "我們坐飛機旅行。"
+    },
+    {
+      "word": "airport",
+      "example": "The airport is very big.",
+      "exampleZh": "機場好大。"
+    },
+    {
+      "word": "angry",
+      "example": "My brother is angry today.",
+      "exampleZh": "我哥哥今日好嬲。"
+    },
+    {
+      "word": "animal",
+      "example": "I like the animal at the zoo.",
+      "exampleZh": "我鍾意動物園入面嘅動物。"
+    },
+    {
+      "word": "answer",
+      "example": "The answer is on page ten.",
+      "exampleZh": "答案喺第十頁。"
+    },
+    {
+      "word": "apartment",
+      "example": "My family lives in an apartment.",
+      "exampleZh": "我家人住喺一間單位。"
+    },
+    {
+      "word": "apple",
+      "example": "I eat an apple every day.",
+      "exampleZh": "我每日食一個士多啤梨。"
+    },
+    {
+      "word": "artist",
+      "example": "She is a famous artist.",
+      "exampleZh": "佢係一個著名藝術家。"
+    },
+    {
+      "word": "autumn",
+      "example": "We play outside in autumn.",
+      "exampleZh": "秋天時，我哋會出去玩。"
+    },
+    {
+      "word": "baby",
+      "example": "The baby is very cute.",
+      "exampleZh": "個嬰兒好可愛。"
+    },
+    {
+      "word": "backpack",
+      "example": "I carry my books in a backpack.",
+      "exampleZh": "我用書包裝書。"
+    },
+    {
+      "word": "badminton",
+      "example": "We play badminton at school.",
+      "exampleZh": "我哋喺學校打羽毛球。"
+    },
+    {
+      "word": "bake",
+      "example": "My mother will bake a cake.",
+      "exampleZh": "我媽媽會烤個蛋糕。"
+    },
+    {
+      "word": "baker",
+      "example": "My father is a baker.",
+      "exampleZh": "我爸爸係麵包師。"
+    },
+    {
+      "word": "balloon",
+      "example": "The balloon is very big.",
+      "exampleZh": "氣球好大。"
+    },
+    {
+      "word": "banana",
+      "example": "I eat a banana every day.",
+      "exampleZh": "我每日都食香蕉。"
+    },
+    {
+      "word": "bank",
+      "example": "We go to the bank on Friday.",
+      "exampleZh": "我們星期五去銀行。"
+    }
+  ]
+}
