@@ -936,3 +936,98 @@ body {
     100% { opacity: 0; }
   }
 }
+
+/* Report image button + confirm (pink cute theme) */
+.btn-report-image {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  z-index: 4;
+  border: none;
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.68rem;
+  font-weight: 800;
+  line-height: 1.2;
+  color: #fff;
+  background: linear-gradient(135deg, rgba(255, 107, 171, 0.92), rgba(167, 139, 250, 0.92));
+  padding: 0.32rem 0.65rem;
+  border-radius: 999px;
+  box-shadow: 0 4px 12px rgba(232, 62, 140, 0.35);
+  border: 2px solid rgba(255, 255, 255, 0.75);
+  white-space: nowrap;
+  touch-action: manipulation;
+  pointer-events: auto;
+}
+
+.btn-report-image:hover:not(:disabled) {
+  filter: brightness(1.06);
+}
+
+.btn-report-image:disabled,
+.btn-report-image[hidden] {
+  opacity: 0.55;
+  cursor: default;
+}
+
+.btn-report-image[hidden] {
+  display: none !important;
+}
+
+.overlay-confirm {
+  position: fixed;
+  inset: 0;
+  z-index: 80;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background: rgba(45, 58, 92, 0.45);
+  backdrop-filter: blur(4px);
+}
+
+.overlay-confirm[hidden] {
+  display: none !important;
+}
+
+.confirm-card {
+  width: min(100%, 360px);
+  padding: 22px 20px;
+}
+
+.confirm-title {
+  margin: 0 0 0.4rem;
+  font-size: 1.15rem;
+  text-align: center;
+  color: var(--pink-deep);
+}
+
+.confirm-body {
+  margin: 0 0 1rem;
+  font-size: 0.92rem;
+  line-height: 1.45;
+  color: var(--muted);
+  text-align: center;
+}
+
+.confirm-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.btn-block {
+  width: 100%;
+}
+
+.btn-danger {
+  background: linear-gradient(135deg, #ff6bab, #e83e8c);
+  color: #fff;
+  border: 2px solid rgba(255, 255, 255, 0.85);
+  box-shadow: 0 6px 16px rgba(232, 62, 140, 0.35);
+}
+
+.btn-danger:hover:not(:disabled) {
+  filter: brightness(1.05);
+}
+

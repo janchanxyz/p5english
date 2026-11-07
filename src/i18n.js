@@ -50,6 +50,14 @@ const COPY = {
   resetConfirm: '確定要清除今日分數同進度，重新由第 1 題開始？（生命會回復 8 粒❤）',
   resetDone: '已重設，可以重新挑戰啦',
   replayPractice: '練習再玩（唔計入今日紀錄）',
+  reportImage: '回報問題相片',
+  reportImageAria: '回報不當相片，換另一張',
+  reportImageThanks: '多謝回報，已換圖',
+  reportImageLimited: '今日回報次數已達上限（最多 3 張）',
+  reportConfirmTitle: '確認回報？',
+  reportConfirmBody: '確定回報呢張問題相片？回報後會換另一張圖。',
+  reportConfirmOk: '確認回報',
+  reportConfirmCancel: '取消',
 };
 
 export function t(key) {

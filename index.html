@@ -48,6 +48,17 @@
         <p class="muted">p5english.chanplanet.workers.dev</p>
       </footer>
     </div>
+
+    <div id="overlay-report-confirm" class="overlay-confirm" hidden role="dialog" aria-modal="true" aria-labelledby="report-confirm-title">
+      <div class="card confirm-card">
+        <h2 class="confirm-title" id="report-confirm-title">確認回報？</h2>
+        <p class="confirm-body" id="report-confirm-body">確定回報呢張問題相片？回報後會換另一張圖。</p>
+        <div class="confirm-actions">
+          <button type="button" class="btn btn-danger btn-block" id="btn-report-confirm-ok">確認回報</button>
+          <button type="button" class="btn btn-secondary btn-block" id="btn-report-confirm-cancel">取消</button>
+        </div>
+      </div>
+    </div>
     <script type="module" src="/src/main.js"></script>
   </body>
 </html>

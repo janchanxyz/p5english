@@ -27,6 +27,12 @@ import {
   downloadBlob,
 } from './share-card.js';
 import { celebrateCorrect } from './celebrate.js';
+import {
+  getReportedUrls,
+  markReportedLocally,
+  filterUnreportedUrls,
+  reportImage,
+} from './reported-images.js';
 
 const main = document.getElementById('main');
 const datePill = document.getElementById('datePill');
@@ -48,6 +54,7 @@ const state = {
   sharePayload: null,
   shareCard: null,
   view: 'home', // home | play | end | review | shareView | gameover
+  reportBlocked: false,
 };
 
 function toast(msg) {
@@ -477,24 +484,31 @@ function renderKeyboard() {
 
 function renderCarousel(entry) {
   const imgs = displayImages(entry);
-  const urls = (imgs.urls || []).map((u) => proxiedImageUrl(u) || u).filter(Boolean);
+  const allUrls = imgs.urls || [];
+  const urls = filterUnreportedUrls(allUrls);
+  const creditByUrl = new Map();
+  allUrls.forEach((u, i) => {
+    creditByUrl.set(u, imgs.credits?.[i] || imgs.credit || '');
+  });
   if (!urls.length) {
     return `<div class="pic-wrap pic-empty"><div class="pic-fallback">📚</div></div>`;
   }
-  const credit = imgs.credits?.[0] || imgs.credit || '';
-  const slides = urls
+  const credits = urls.map((u) => creditByUrl.get(u) || '');
+  const credit = credits[0] || '';
+  const proxied = urls.map((u) => proxiedImageUrl(u) || u).filter(Boolean);
+  const slides = proxied
     .map(
       (src, i) =>
-        `<div class="pic-slide${i === 0 ? ' active' : ''}" data-i="${i}">
+        `<div class="pic-slide${i === 0 ? ' active' : ''}" data-i="${i}" data-orig="${escapeHtml(urls[i])}">
           <img src="${src}" alt="" loading="${i === 0 ? 'eager' : 'lazy'}" decoding="async" data-fallbacks="${escapeHtml(
-            urls.slice(i + 1).join('|'),
+            proxied.slice(i + 1).join('|'),
           )}" />
         </div>`,
     )
     .join('');
   const dots =
-    urls.length > 1
-      ? `<div class="pic-dots" role="tablist">${urls
+    proxied.length > 1
+      ? `<div class="pic-dots" role="tablist">${proxied
           .map(
             (_, i) =>
               `<button type="button" class="pic-dot${i === 0 ? ' active' : ''}" data-i="${i}" aria-label="圖片 ${i + 1}"></button>`,
@@ -502,15 +516,19 @@ function renderCarousel(entry) {
           .join('')}</div>`
       : '';
   const nav =
-    urls.length > 1
+    proxied.length > 1
       ? `<button type="button" class="pic-nav prev" data-dir="-1" aria-label="上一張">‹</button>
          <button type="button" class="pic-nav next" data-dir="1" aria-label="下一張">›</button>`
       : '';
+  const reportBtn = state.reportBlocked
+    ? ''
+    : `<button type="button" class="btn-report-image" data-act="report-image" aria-label="${escapeHtml(t('reportImageAria'))}">${escapeHtml(t('reportImage'))}</button>`;
   return `
-    <div class="pic-wrap" data-count="${urls.length}" data-idx="0">
+    <div class="pic-wrap" data-count="${proxied.length}" data-idx="0" data-credits="${escapeHtml(JSON.stringify(credits))}">
       <div class="pic-track">${slides}</div>
       ${nav}
       ${dots}
+      ${reportBtn}
       ${credit ? `<div class="pic-credit">${escapeHtml(t('imageCredit'))}: ${escapeHtml(credit)}</div>` : ''}
     </div>
   `;
@@ -537,7 +555,17 @@ function bindCarousel(root) {
     slides.forEach((s, n) => s.classList.toggle('active', n === idx));
     dots.forEach((d, n) => d.classList.toggle('active', n === idx));
     const creditEl = wrap.querySelector('.pic-credit');
-    // keep first credit; fine for now
+    if (creditEl) {
+      let credits = [];
+      try {
+        credits = JSON.parse(wrap.dataset.credits || '[]');
+      } catch {
+        credits = [];
+      }
+      const c = credits[idx] || '';
+      creditEl.textContent = c ? `${t('imageCredit')}: ${c}` : '';
+      creditEl.hidden = !c;
+    }
   }
 
   wrap.querySelectorAll('.pic-nav').forEach((btn) => {
@@ -598,6 +626,96 @@ function onImgError(ev) {
     fb.textContent = '📚';
     slide.appendChild(fb);
   }
+}
+
+
+let pendingReportUrl = null;
+
+function hideReportConfirm() {
+  const el = document.getElementById('overlay-report-confirm');
+  if (el) el.hidden = true;
+}
+
+function showReportConfirm() {
+  if (state.reportBlocked) {
+    toast(t('reportImageLimited'));
+    return;
+  }
+  const el = document.getElementById('overlay-report-confirm');
+  if (!el) {
+    // Fallback
+    if (window.confirm(t('reportConfirmBody'))) {
+      void confirmReportImage();
+    }
+    return;
+  }
+  const title = document.getElementById('report-confirm-title');
+  const body = document.getElementById('report-confirm-body');
+  const ok = document.getElementById('btn-report-confirm-ok');
+  const cancel = document.getElementById('btn-report-confirm-cancel');
+  if (title) title.textContent = t('reportConfirmTitle');
+  if (body) body.textContent = t('reportConfirmBody');
+  if (ok) ok.textContent = t('reportConfirmOk');
+  if (cancel) cancel.textContent = t('reportConfirmCancel');
+  el.hidden = false;
+  ok?.focus();
+}
+
+function onReportImageClick() {
+  if (state.reportBlocked) {
+    toast(t('reportImageLimited'));
+    return;
+  }
+  const wrap = main.querySelector('.pic-wrap');
+  if (!wrap || wrap.classList.contains('pic-empty')) return;
+  const idx = Number(wrap.dataset.idx || 0);
+  const slides = [...wrap.querySelectorAll('.pic-slide')];
+  const slide = slides[idx] || slides[0];
+  const orig = slide?.dataset?.orig || '';
+  if (!orig) return;
+  pendingReportUrl = orig;
+  showReportConfirm();
+}
+
+async function confirmReportImage() {
+  hideReportConfirm();
+  const badUrl = pendingReportUrl;
+  pendingReportUrl = null;
+  if (!badUrl) return;
+  if (state.reportBlocked) {
+    toast(t('reportImageLimited'));
+    return;
+  }
+  const btn = main.querySelector('[data-act="report-image"]');
+  if (btn) btn.disabled = true;
+  markReportedLocally(badUrl);
+  const puzzle = currentPuzzle();
+  const result = await reportImage({
+    url: badUrl,
+    wordId: puzzle?.id || puzzle?.word || '',
+    word: puzzle?.word || '',
+    reason: 'inappropriate',
+    date: state.dateStr,
+    roundIndex: state.index,
+  });
+  if (result?.rateLimited) {
+    state.reportBlocked = true;
+    if (btn) {
+      btn.hidden = true;
+      btn.disabled = true;
+    }
+    toast(t('reportImageLimited'));
+    return;
+  }
+  toast(t('reportImageThanks'));
+  // Re-render play view so carousel skips the reported URL and shows another image
+  if (state.view === 'play') {
+    renderPlay();
+  }
+}
+
+function bindReportUi() {
+  main.querySelector('[data-act="report-image"]')?.addEventListener('click', onReportImageClick);
 }
 
 function renderExampleBlock(puzzle, revealed) {
@@ -678,6 +796,7 @@ function renderPlay() {
   `;
 
   bindCarousel(main);
+  bindReportUi();
 
   main.querySelector('[data-act="speak"]')?.addEventListener('click', () => {
     const w = currentPuzzle()?.word;
@@ -1074,7 +1193,20 @@ function escapeHtml(s) {
     .replace(/"/g, '&quot;');
 }
 
-function boot() {
+function wireReportConfirmOverlay() {
+  document.getElementById('btn-report-confirm-ok')?.addEventListener('click', () => {
+    void confirmReportImage();
+  });
+  document.getElementById('btn-report-confirm-cancel')?.addEventListener('click', hideReportConfirm);
+  document.getElementById('overlay-report-confirm')?.addEventListener('click', (e) => {
+    if (e.target?.id === 'overlay-report-confirm') hideReportConfirm();
+  });
+}
+
+async function boot() {
+  wireReportConfirmOverlay();
+  // Prefetch reported URL set so the first carousel can filter
+  await getReportedUrls();
   ensureDaily();
   const params = new URLSearchParams(location.search);
   const shared = params.get('s');

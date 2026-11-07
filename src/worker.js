@@ -1,6 +1,9 @@
 /**
  * Cloudflare Worker: SPA assets + same-origin image proxy for canvas share cards.
  * GET /api/img?u=<encoded absolute http(s) URL>
+ * POST /api/report-image  JSON { url, wordId?, word?, ... }
+ * GET /api/reported-images  → { urls: string[] }
+ * GET /api/img-ok?u=<url>  → { ok: boolean }  (ok=false if reported)
  *
  * Large Wikimedia originals are rewritten to ~500px Commons thumbs before proxying
  * so mobile clients never hit 413 on multi-MB JPEGs.
@@ -413,6 +416,184 @@ async function speakText(request, env, url) {
 }
 
 
+
+/* ---------- User-reported images (KV REPORTS) ---------- */
+const REPORTED_SET_KEY = 'reported:urls';
+const MAX_REPORTED_URLS = 5000;
+const MAX_DAY_REPORTS = 500;
+const MAX_REPORTS_PER_IP_PER_DAY = 3;
+
+function jsonResponse(data, status = 200, extra = {}) {
+  return new Response(JSON.stringify(data), {
+    status,
+    headers: corsHeaders({
+      'Content-Type': 'application/json; charset=utf-8',
+      ...extra,
+    }),
+  });
+}
+
+function todayUtc() {
+  return new Date().toISOString().slice(0, 10);
+}
+
+function clientIp(request) {
+  const cf = (request.headers.get('CF-Connecting-IP') || '').trim();
+  if (cf) return cf;
+  const xff = (request.headers.get('X-Forwarded-For') || '').trim();
+  if (xff) {
+    const first = xff.split(',')[0].trim();
+    if (first) return first;
+  }
+  return '';
+}
+
+function reportCountKey(ip, day) {
+  return `report-count:ip:${ip}:${day}`;
+}
+
+async function readReportedSet(env) {
+  if (!env.REPORTS) return [];
+  try {
+    const raw = await env.REPORTS.get(REPORTED_SET_KEY);
+    if (!raw) return [];
+    const arr = JSON.parse(raw);
+    return Array.isArray(arr) ? arr.filter((u) => typeof u === 'string' && u) : [];
+  } catch {
+    return [];
+  }
+}
+
+async function writeReportedSet(env, urls) {
+  if (!env.REPORTS) return;
+  const trimmed = urls.slice(0, MAX_REPORTED_URLS);
+  await env.REPORTS.put(REPORTED_SET_KEY, JSON.stringify(trimmed));
+}
+
+async function readIpDayReportCount(env, ip, day) {
+  if (!env.REPORTS || !ip) return 0;
+  try {
+    const raw = await env.REPORTS.get(reportCountKey(ip, day));
+    if (!raw) return 0;
+    if (raw.startsWith('{')) {
+      const obj = JSON.parse(raw);
+      return Number(obj.count) || 0;
+    }
+    return Number(raw) || 0;
+  } catch {
+    return 0;
+  }
+}
+
+async function incrementIpDayReportCount(env, ip, day, prevCount) {
+  if (!env.REPORTS || !ip) return;
+  const now = new Date().toISOString();
+  const count = (prevCount || 0) + 1;
+  const expirationTtl = 60 * 60 * 48; // 48h
+  await env.REPORTS.put(
+    reportCountKey(ip, day),
+    JSON.stringify({ count, day, lastAt: now }),
+    { expirationTtl },
+  );
+}
+
+async function handleReportedImages(request, env) {
+  if (request.method === 'OPTIONS') {
+    return new Response(null, { status: 204, headers: corsHeaders() });
+  }
+  if (request.method !== 'GET' && request.method !== 'HEAD') {
+    return new Response('Method not allowed', { status: 405, headers: corsHeaders() });
+  }
+  const urls = await readReportedSet(env);
+  return jsonResponse({ urls }, 200, { 'Cache-Control': 'public, max-age=60' });
+}
+
+async function handleImgOk(request, url, env) {
+  if (request.method === 'OPTIONS') {
+    return new Response(null, { status: 204, headers: corsHeaders() });
+  }
+  if (request.method !== 'GET' && request.method !== 'HEAD') {
+    return new Response('Method not allowed', { status: 405, headers: corsHeaders() });
+  }
+  const raw = url.searchParams.get('u') || '';
+  if (!raw) return jsonResponse({ ok: true });
+  const urls = await readReportedSet(env);
+  const ok = !urls.includes(raw);
+  return jsonResponse({ ok }, 200, { 'Cache-Control': 'public, max-age=30' });
+}
+
+async function handleReportImage(request, env) {
+  if (request.method === 'OPTIONS') {
+    return new Response(null, { status: 204, headers: corsHeaders() });
+  }
+  if (request.method !== 'POST') {
+    return new Response('Method not allowed', { status: 405, headers: corsHeaders() });
+  }
+  if (!env.REPORTS) {
+    return jsonResponse({ ok: false, error: 'reports store unavailable' }, 503);
+  }
+
+  const ip = clientIp(request);
+  const day = todayUtc();
+  const ipDayCount = await readIpDayReportCount(env, ip, day);
+  if (ip && ipDayCount >= MAX_REPORTS_PER_IP_PER_DAY) {
+    return jsonResponse({ ok: false, error: 'rate_limited' }, 429);
+  }
+
+  let body;
+  try {
+    body = await request.json();
+  } catch {
+    return jsonResponse({ ok: false, error: 'invalid json' }, 400);
+  }
+  const imageUrl = typeof body?.url === 'string' ? body.url.trim() : '';
+  if (!imageUrl) {
+    return jsonResponse({ ok: false, error: 'url required' }, 400);
+  }
+  const parsed = parseTargetUrl(imageUrl);
+  if (parsed.error) {
+    return jsonResponse({ ok: false, error: 'bad url' }, 400);
+  }
+
+  const entry = {
+    url: parsed.target.toString(),
+    wordId: body.wordId != null ? String(body.wordId).slice(0, 64) : undefined,
+    word: body.word != null ? String(body.word).slice(0, 64) : undefined,
+    reason: body.reason != null ? String(body.reason).slice(0, 200) : 'inappropriate',
+    date: body.date != null ? String(body.date).slice(0, 32) : undefined,
+    roundIndex:
+      typeof body.roundIndex === 'number' && Number.isFinite(body.roundIndex)
+        ? body.roundIndex
+        : undefined,
+    at: new Date().toISOString(),
+  };
+
+  const dayKey = `reports:${day}`;
+  let dayList = [];
+  try {
+    const raw = await env.REPORTS.get(dayKey);
+    if (raw) {
+      const arr = JSON.parse(raw);
+      if (Array.isArray(arr)) dayList = arr;
+    }
+  } catch {
+    dayList = [];
+  }
+  dayList.push(entry);
+  if (dayList.length > MAX_DAY_REPORTS) dayList = dayList.slice(-MAX_DAY_REPORTS);
+  await env.REPORTS.put(dayKey, JSON.stringify(dayList));
+
+  const set = await readReportedSet(env);
+  if (!set.includes(entry.url)) {
+    set.unshift(entry.url);
+    await writeReportedSet(env, set);
+  }
+
+  await incrementIpDayReportCount(env, ip, day, ipDayCount);
+
+  return jsonResponse({ ok: true, url: entry.url });
+}
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
@@ -421,6 +602,18 @@ export default {
     }
     if (url.pathname === '/api/speak') {
       return speakText(request, env, url);
+    }
+    if (url.pathname === '/api/report-image') {
+      return handleReportImage(request, env);
+    }
+    if (url.pathname === '/api/reported-images') {
+      return handleReportedImages(request, env);
+    }
+    if (url.pathname === '/api/img-ok') {
+      return handleImgOk(request, url, env);
+    }
+    if (url.pathname.startsWith('/api/')) {
+      return new Response('Not found', { status: 404, headers: corsHeaders() });
     }
     return env.ASSETS.fetch(request);
   },
