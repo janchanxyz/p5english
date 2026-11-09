@@ -7,3 +7,10 @@ __pycache__/
 .venv/
 .tts-cache/
 *.log
+
+.env
+.env.*
+
+# local image enrichment
+.unsplash-checkpoint.json
+.unsplash-cache.json

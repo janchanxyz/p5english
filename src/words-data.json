@@ -93,19 +93,15 @@
     "zh": "下午",
     "pos": "n",
     "theme": "time",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Battle_of_Dai_Do%2C_afternoon_of_April_30%2C_1968.svg/500px-Battle_of_Dai_Do%2C_afternoon_of_April_30%2C_1968.svg.png",
-    "imageCredit": "Daniel Capilla · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1530973954043-dc7f4d22117c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8M3x8YWZ0ZXJub29ufGVufDF8MHx8fDE3OTQyMDEyOTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Yousef Espanioly on Unsplash (https://unsplash.com/@yespanioly?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Battle_of_Dai_Do%2C_afternoon_of_April_30%2C_1968.svg/500px-Battle_of_Dai_Do%2C_afternoon_of_April_30%2C_1968.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Disney_Afternoon_Logo_%28Korean%29.svg/500px-Disney_Afternoon_Logo_%28Korean%29.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Port_Hudson_Afternoon_Attack_One.svg/500px-Port_Hudson_Afternoon_Attack_One.svg.png"
+      "https://images.unsplash.com/photo-1530973954043-dc7f4d22117c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8M3x8YWZ0ZXJub29ufGVufDF8MHx8fDE3OTQyMDEyOTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Daniel Capilla · CC BY-SA 4.0",
-      "KBS · Public domain",
-      "Calendar5 · CC0"
+      "Photo by Yousef Espanioly on Unsplash (https://unsplash.com/@yespanioly?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Battle_of_Dai_Do%2C_afternoon_of_April_30%2C_1968.svg/500px-Battle_of_Dai_Do%2C_afternoon_of_April_30%2C_1968.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1530973954043-dc7f4d22117c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8M3x8YWZ0ZXJub29ufGVufDF8MHx8fDE3OTQyMDEyOTV8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "I play soccer in the afternoon.",
     "exampleZh": "我喺下午踢足球。"
   },
@@ -115,19 +111,15 @@
     "zh": "飛機",
     "pos": "n",
     "theme": "transport",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Airplane_Crash.svg/500px-Airplane_Crash.svg.png",
-    "imageCredit": "קרלוס הגדול · CC BY-SA 3.0",
+    "imageUrl": "https://images.unsplash.com/flagged/photo-1555685460-1d9cf532761b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8YWlycGxhbmV8ZW58MXwwfHx8MTc5NDIwMTM3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by emanuviews on Unsplash (https://unsplash.com/@emanuviews?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Airplane_Crash.svg/500px-Airplane_Crash.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airplane_GA_Green.svg/500px-Airplane_GA_Green.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Airplane_mode.svg/500px-Airplane_mode.svg.png"
+      "https://images.unsplash.com/flagged/photo-1555685460-1d9cf532761b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8YWlycGxhbmV8ZW58MXwwfHx8MTc5NDIwMTM3MXww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "קרלוס הגדול · CC BY-SA 3.0",
-      "Josh Baumgartner · CC BY-SA 3.0",
-      "magicvince · CC0"
+      "Photo by emanuviews on Unsplash (https://unsplash.com/@emanuviews?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Airplane_Crash.svg/500px-Airplane_Crash.svg.png",
+    "thumbUrl": "https://images.unsplash.com/flagged/photo-1555685460-1d9cf532761b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8YWlycGxhbmV8ZW58MXwwfHx8MTc5NDIwMTM3MXww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "We travel by airplane.",
     "exampleZh": "我們坐飛機旅行。"
   },
@@ -137,19 +129,15 @@
     "zh": "機場",
     "pos": "n",
     "theme": "transport",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Airport_Immigration.svg/500px-Airport_Immigration.svg.png",
-    "imageCredit": "京市 · CC BY-SA 3.0",
+    "imageUrl": "https://images.unsplash.com/photo-1549897411-b06572cdf806?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8YWlycG9ydHxlbnwxfDB8fHwxNzk0MDc0Njk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Dennis Gecaj on Unsplash (https://unsplash.com/@dannis?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Airport_Immigration.svg/500px-Airport_Immigration.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBFL_Airport_Diagram.svg/500px-KBFL_Airport_Diagram.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/KCLE_Airport_Diagram.svg/500px-KCLE_Airport_Diagram.svg.png"
+      "https://images.unsplash.com/photo-1549897411-b06572cdf806?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8YWlycG9ydHxlbnwxfDB8fHwxNzk0MDc0Njk0fDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "京市 · CC BY-SA 3.0",
-      "Federal Aviation Administration · Public domain",
-      "Federal Aviation Administration · Public domain"
+      "Photo by Dennis Gecaj on Unsplash (https://unsplash.com/@dannis?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Airport_Immigration.svg/500px-Airport_Immigration.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1549897411-b06572cdf806?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8YWlycG9ydHxlbnwxfDB8fHwxNzk0MDc0Njk0fDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "The airport is very big.",
     "exampleZh": "機場好大。"
   },
@@ -181,21 +169,17 @@
     "zh": "救護車",
     "pos": "n",
     "theme": "transport",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/British_Style_Ambulance_Clipart.svg/500px-British_Style_Ambulance_Clipart.svg.png",
-    "imageCredit": "Mvolz · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1579037005241-a79202c7e9fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8M3x8YW1idWxhbmNlfGVufDF8MHx8fDE3OTQyMDE0NDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Jonnica Hill on Unsplash (https://unsplash.com/@jonnicaahill?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/British_Style_Ambulance_Clipart.svg/500px-British_Style_Ambulance_Clipart.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/NotoSans_-_Ambulance_-_1F691_-_7pVZXL.svg/500px-NotoSans_-_Ambulance_-_1F691_-_7pVZXL.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NotoSans_-_Ambulance_-_1F691_-_ooarBp.svg/500px-NotoSans_-_Ambulance_-_1F691_-_ooarBp.svg.png"
+      "https://images.unsplash.com/photo-1579037005241-a79202c7e9fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8M3x8YW1idWxhbmNlfGVufDF8MHx8fDE3OTQyMDE0NDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "example": "The ambulance arrived quickly.",
     "exampleZh": "救護車好快就到。",
     "imageCredits": [
-      "Mvolz · CC0",
-      "Google · Apache License 2.0",
-      "Google · Apache License 2.0"
+      "Photo by Jonnica Hill on Unsplash (https://unsplash.com/@jonnicaahill?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/British_Style_Ambulance_Clipart.svg/500px-British_Style_Ambulance_Clipart.svg.png"
+    "thumbUrl": "https://images.unsplash.com/photo-1579037005241-a79202c7e9fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8M3x8YW1idWxhbmNlfGVufDF8MHx8fDE3OTQyMDE0NDh8MA&ixlib=rb-4.1.0&q=80&w=400"
   },
   {
     "id": "amount",
@@ -247,21 +231,17 @@
     "zh": "足踝",
     "pos": "n",
     "theme": "body",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ankle.svg/500px-Ankle.svg.png",
-    "imageCredit": "An svg version of image:Ankle.PNG by (Jak). · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1508387104394-d13e1b497f85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YW5rbGV8ZW58MXwwfHx8MTc5NDIwMTYwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Nino Liverani on Unsplash (https://unsplash.com/@ninoliverani?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ankle.svg/500px-Ankle.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ankle_ar.svg/500px-Ankle_ar.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ankle_bandage.svg/500px-Ankle_bandage.svg.png"
+      "https://images.unsplash.com/photo-1508387104394-d13e1b497f85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YW5rbGV8ZW58MXwwfHx8MTc5NDIwMTYwMHww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "example": "She hurt her ankle while running.",
     "exampleZh": "佢跑步嗰陣整親自己嘅足踝。",
     "imageCredits": [
-      "An svg version of image:Ankle.PNG by (Jak). · Public domain",
-      "Ankle_en.svg: An svg version of image:Ankle.PNG by Jak.\nDerivative work (Arabic  · Public domain",
-      "Original:  U.S. Navy Vector:  McSush · Public domain"
+      "Photo by Nino Liverani on Unsplash (https://unsplash.com/@ninoliverani?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ankle.svg/500px-Ankle.svg.png"
+    "thumbUrl": "https://images.unsplash.com/photo-1508387104394-d13e1b497f85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YW5rbGV8ZW58MXwwfHx8MTc5NDIwMTYwMHww&ixlib=rb-4.1.0&q=80&w=400"
   },
   {
     "id": "apartment",
@@ -269,19 +249,15 @@
     "zh": "公寓",
     "pos": "n",
     "theme": "home",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tomodachi_Life_Mii-Apartment_anwesend.svg/500px-Tomodachi_Life_Mii-Apartment_anwesend.svg.png",
-    "imageCredit": "Game: Nintendo Entertainment Analysis &amp; Development\nvektorisiert von: Panthe · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8YXBhcnRtZW50fGVufDF8MHx8fDE3OTQyMDE2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by deborah cortelazzi on Unsplash (https://unsplash.com/@deborah_cortelazzi?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tomodachi_Life_Mii-Apartment_anwesend.svg/500px-Tomodachi_Life_Mii-Apartment_anwesend.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tomodachi_Life_Mii-Apartment_unbelegt.svg/500px-Tomodachi_Life_Mii-Apartment_unbelegt.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Apartment-Zauber_Logo_001.svg/500px-Apartment-Zauber_Logo_001.svg.png"
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8YXBhcnRtZW50fGVufDF8MHx8fDE3OTQyMDE2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Game: Nintendo Entertainment Analysis &amp; Development\nvektorisiert von: Panthe · Public domain",
-      "Piran-Film + Televisions GmbH · Public domain",
-      "Piran-Film + Televisions GmbH · Public domain"
+      "Photo by deborah cortelazzi on Unsplash (https://unsplash.com/@deborah_cortelazzi?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tomodachi_Life_Mii-Apartment_anwesend.svg/500px-Tomodachi_Life_Mii-Apartment_anwesend.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8YXBhcnRtZW50fGVufDF8MHx8fDE3OTQyMDE2Nzd8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "My family lives in an apartment.",
     "exampleZh": "我家人住喺一間單位。"
   },
@@ -379,21 +355,17 @@
     "zh": "到達",
     "pos": "v",
     "theme": "verbs",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/133_-_zhi4_-_arrive.svg/500px-133_-_zhi4_-_arrive.svg.png",
-    "imageCredit": "User:Magna · CC BY-SA 2.5",
+    "imageUrl": "https://images.unsplash.com/photo-1527007622069-3a0241e1cd8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8YXJyaXZlfGVufDF8MHx8fDE3OTQyMDE3NTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Belinda Fewings on Unsplash (https://unsplash.com/@bel2000a?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/133_-_zhi4_-_arrive.svg/500px-133_-_zhi4_-_arrive.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Arrivewell-hochtief-auth.svg/500px-Arrivewell-hochtief-auth.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png"
+      "https://images.unsplash.com/photo-1527007622069-3a0241e1cd8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8YXJyaXZlfGVufDF8MHx8fDE3OTQyMDE3NTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "example": "We arrive at school at eight o'clock.",
     "exampleZh": "我哋朝早八點到達學校。",
     "imageCredits": [
-      "User:Magna · CC BY-SA 2.5",
-      "Diegonexplore · CC BY-SA 4.0",
-      "Nicu Buculei · CC0"
+      "Photo by Belinda Fewings on Unsplash (https://unsplash.com/@bel2000a?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/133_-_zhi4_-_arrive.svg/500px-133_-_zhi4_-_arrive.svg.png"
+    "thumbUrl": "https://images.unsplash.com/photo-1527007622069-3a0241e1cd8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8YXJyaXZlfGVufDF8MHx8fDE3OTQyMDE3NTN8MA&ixlib=rb-4.1.0&q=80&w=400"
   },
   {
     "id": "assembly",
@@ -401,21 +373,17 @@
     "zh": "早會",
     "pos": "n",
     "theme": "school",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Carbon_Icons_%28IBM%29_32_assembly--cluster.svg/500px-Carbon_Icons_%28IBM%29_32_assembly--cluster.svg.png",
-    "imageCredit": "IBM Corp./List of contributors · Apache License 2.0",
+    "imageUrl": "https://images.unsplash.com/photo-1647427060118-4911c9821b82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8YXNzZW1ibHl8ZW58MXwwfHx8MTc5NDIwMTgzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Simon Kadula on Unsplash (https://unsplash.com/@simonkadula?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Carbon_Icons_%28IBM%29_32_assembly--cluster.svg/500px-Carbon_Icons_%28IBM%29_32_assembly--cluster.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Carbon_Icons_%28IBM%29_32_assembly.svg/500px-Carbon_Icons_%28IBM%29_32_assembly.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Tabler-icons_assembly-off.svg/500px-Tabler-icons_assembly-off.svg.png"
+      "https://images.unsplash.com/photo-1647427060118-4911c9821b82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8YXNzZW1ibHl8ZW58MXwwfHx8MTc5NDIwMTgzMHww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "example": "Students stand quietly during assembly.",
     "exampleZh": "早會嗰陣學生靜靜企好。",
     "imageCredits": [
-      "IBM Corp./List of contributors · Apache License 2.0",
-      "Tabler (https://github.com/tabler / https://web.archive.org/web/20230424163711/h · MIT",
-      "Tabler (https://github.com/tabler / https://web.archive.org/web/20230424163711/h · MIT"
+      "Photo by Simon Kadula on Unsplash (https://unsplash.com/@simonkadula?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Carbon_Icons_%28IBM%29_32_assembly--cluster.svg/500px-Carbon_Icons_%28IBM%29_32_assembly--cluster.svg.png"
+    "thumbUrl": "https://images.unsplash.com/photo-1647427060118-4911c9821b82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8YXNzZW1ibHl8ZW58MXwwfHx8MTc5NDIwMTgzMHww&ixlib=rb-4.1.0&q=80&w=400"
   },
   {
     "id": "assignment",
@@ -555,19 +523,15 @@
     "zh": "秋天",
     "pos": "n",
     "theme": "weather",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2014_Early-Autumn_Daraa_Offensive.svg/500px-2014_Early-Autumn_Daraa_Offensive.svg.png",
-    "imageCredit": "Derived from work by MrPenguin20 · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YXV0dW1ufGVufDF8MHx8fDE3OTQwNzU4Njl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Johannes Plenio on Unsplash (https://unsplash.com/@jplenio?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2014_Early-Autumn_Daraa_Offensive.svg/500px-2014_Early-Autumn_Daraa_Offensive.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/2014_Late-Autumn_Daraa_Offensive.svg/500px-2014_Late-Autumn_Daraa_Offensive.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Autumn-Maple-Leaf-Montage.svg/500px-Autumn-Maple-Leaf-Montage.svg.png"
+      "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YXV0dW1ufGVufDF8MHx8fDE3OTQwNzU4Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Derived from work by MrPenguin20 · CC BY-SA 4.0",
-      "GDJ · CC0",
-      "GDJ · CC0"
+      "Photo by Johannes Plenio on Unsplash (https://unsplash.com/@jplenio?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2014_Early-Autumn_Daraa_Offensive.svg/500px-2014_Early-Autumn_Daraa_Offensive.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YXV0dW1ufGVufDF8MHx8fDE3OTQwNzU4Njl8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "We play outside in autumn.",
     "exampleZh": "秋天時，我哋會出去玩。"
   },
@@ -643,19 +607,15 @@
     "zh": "背囊",
     "pos": "n",
     "theme": "school",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Backpack_%282551%29_-_The_Noun_Project.svg/500px-Backpack_%282551%29_-_The_Noun_Project.svg.png",
-    "imageCredit": "Rémy Médard · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8YmFja3BhY2t8ZW58MXwwfHx8MTc5NDA3NjM5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Holly Mandarich on Unsplash (https://unsplash.com/@hollymandarich?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Backpack_%282551%29_-_The_Noun_Project.svg/500px-Backpack_%282551%29_-_The_Noun_Project.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Backpack_icon.svg/500px-Backpack_icon.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Microsoft_Fluent_UI_%E2%80%93_ic_fluent_backpack_32_regular.svg/500px-Microsoft_Fluent_UI_%E2%80%93_ic_fluent_backpack_32_regular.svg.png"
+      "https://images.unsplash.com/photo-1501555088652-021faa106b9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8YmFja3BhY2t8ZW58MXwwfHx8MTc5NDA3NjM5Nnww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Rémy Médard · CC0",
-      "Boca Tutor · CC BY-SA 3.0",
-      "Microsoft Corporation · MIT"
+      "Photo by Holly Mandarich on Unsplash (https://unsplash.com/@hollymandarich?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Backpack_%282551%29_-_The_Noun_Project.svg/500px-Backpack_%282551%29_-_The_Noun_Project.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8YmFja3BhY2t8ZW58MXwwfHx8MTc5NDA3NjM5Nnww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "I carry my books in a backpack.",
     "exampleZh": "我用書包裝書。"
   },
@@ -665,19 +625,15 @@
     "zh": "羽毛球",
     "pos": "n",
     "theme": "sports",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Badminton-svgrepo-com.svg/500px-Badminton-svgrepo-com.svg.png",
-    "imageCredit": "theforgesmith · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1617696618050-b0fef0c666af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8YmFkbWludG9ufGVufDF8MHx8fDE3OTQyMDE5MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Saif71.com on Unsplash (https://unsplash.com/@saif71?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Badminton-svgrepo-com.svg/500px-Badminton-svgrepo-com.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Badminton_pictogram_%28Paralympics%29.svg/500px-Badminton_pictogram_%28Paralympics%29.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Badminton_pictogram.svg/500px-Badminton_pictogram.svg.png"
+      "https://images.unsplash.com/photo-1617696618050-b0fef0c666af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8YmFkbWludG9ufGVufDF8MHx8fDE3OTQyMDE5MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "theforgesmith · CC0",
-      "Own work\n+\nsource 1 : Parutakupiu\n+\n\nsource 2 :Thadius856 (SVG conversion) &amp; · CC BY-SA 4.0",
-      "Thadius856 (SVG conversion) &amp; Parutakupiu (original image) · Public domain"
+      "Photo by Saif71.com on Unsplash (https://unsplash.com/@saif71?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Badminton-svgrepo-com.svg/500px-Badminton-svgrepo-com.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1617696618050-b0fef0c666af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8YmFkbWludG9ufGVufDF8MHx8fDE3OTQyMDE5MDZ8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "We play badminton at school.",
     "exampleZh": "我哋喺學校打羽毛球。"
   },
@@ -753,19 +709,15 @@
     "zh": "氣球",
     "pos": "n",
     "theme": "misc",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Balloon_%28typeface%29_sample.svg/500px-Balloon_%28typeface%29_sample.svg.png",
-    "imageCredit": "VanishingDuck · CC BY-SA 3.0",
+    "imageUrl": "https://images.unsplash.com/photo-1497531551184-06b252e1bee1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YmFsbG9vbnxlbnwxfDB8fHwxNzk0MDc3MjYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Aaron Burden on Unsplash (https://unsplash.com/@aaronburden?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Balloon_%28typeface%29_sample.svg/500px-Balloon_%28typeface%29_sample.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Balloon_Pinhead_icon.svg/500px-Balloon_Pinhead_icon.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Barrage_balloon_icon.svg/500px-Barrage_balloon_icon.svg.png"
+      "https://images.unsplash.com/photo-1497531551184-06b252e1bee1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YmFsbG9vbnxlbnwxfDB8fHwxNzk0MDc3MjYxfDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "VanishingDuck · CC BY-SA 3.0",
-      "Temaki contributors · CC0",
-      "Goran_tek-en · CC BY-SA 4.0"
+      "Photo by Aaron Burden on Unsplash (https://unsplash.com/@aaronburden?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Balloon_%28typeface%29_sample.svg/500px-Balloon_%28typeface%29_sample.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1497531551184-06b252e1bee1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YmFsbG9vbnxlbnwxfDB8fHwxNzk0MDc3MjYxfDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "The balloon is very big.",
     "exampleZh": "氣球好大。"
   },
@@ -819,19 +771,15 @@
     "zh": "棒球",
     "pos": "n",
     "theme": "sports",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Baseball_Pinhead_icon.svg/500px-Baseball_Pinhead_icon.svg.png",
-    "imageCredit": "Quincy Morgan · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1471295253337-3ceaaedca402?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YmFzZWJhbGx8ZW58MXwwfHx8MTc5NDIwMjA1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Tim Gouw on Unsplash (https://unsplash.com/@punttim?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Baseball_Pinhead_icon.svg/500px-Baseball_Pinhead_icon.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Baseball_ball.svg/500px-Baseball_ball.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Baseball_bat_and_baseball_Pinhead_icon.svg/500px-Baseball_bat_and_baseball_Pinhead_icon.svg.png"
+      "https://images.unsplash.com/photo-1471295253337-3ceaaedca402?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YmFzZWJhbGx8ZW58MXwwfHx8MTc5NDIwMjA1OXww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Quincy Morgan · CC0",
-      "Vascer (User:Pypaertv) · CC BY-SA 2.5",
-      "CC0"
+      "Photo by Tim Gouw on Unsplash (https://unsplash.com/@punttim?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Baseball_Pinhead_icon.svg/500px-Baseball_Pinhead_icon.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1471295253337-3ceaaedca402?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YmFzZWJhbGx8ZW58MXwwfHx8MTc5NDIwMjA1OXww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "The team plays baseball on Sunday.",
     "exampleZh": "球隊星期日踢棒球。"
   },
@@ -863,19 +811,15 @@
     "zh": "籃球",
     "pos": "n",
     "theme": "sports",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fireman_basketball_by_mimooh.svg/500px-Fireman_basketball_by_mimooh.svg.png",
-    "imageCredit": "Mimooh · CC BY-SA 3.0",
+    "imageUrl": "https://images.unsplash.com/photo-1474224017046-182ece80b263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8YmFza2V0YmFsbHxlbnwxfDB8fHwxNzk0MjAyMTM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Nick Jio on Unsplash (https://unsplash.com/@nicholasjio?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fireman_basketball_by_mimooh.svg/500px-Fireman_basketball_by_mimooh.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Basketball_autoscore_with_Arduino.svg/500px-Basketball_autoscore_with_Arduino.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Basketball_court_fiba.svg/500px-Basketball_court_fiba.svg.png"
+      "https://images.unsplash.com/photo-1474224017046-182ece80b263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8YmFza2V0YmFsbHxlbnwxfDB8fHwxNzk0MjAyMTM1fDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Mimooh · CC BY-SA 3.0",
-      "Giacomo Alessandroni · CC BY-SA 4.0",
-      "Jenspo · CC BY 3.0"
+      "Photo by Nick Jio on Unsplash (https://unsplash.com/@nicholasjio?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fireman_basketball_by_mimooh.svg/500px-Fireman_basketball_by_mimooh.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1474224017046-182ece80b263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8YmFza2V0YmFsbHxlbnwxfDB8fHwxNzk0MjAyMTM1fDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "We play basketball in the park.",
     "exampleZh": "我們在公園踢籃球。"
   },
@@ -885,19 +829,15 @@
     "zh": "浴室",
     "pos": "n",
     "theme": "home",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bathroom_Man.svg/500px-Bathroom_Man.svg.png",
-    "imageCredit": "EFF · CC BY 3.0 us",
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YmF0aHJvb218ZW58MXwwfHx8MTc5NDA3NzQ5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Lotus Design N Print on Unsplash (https://unsplash.com/@lotusdnp?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bathroom_Man.svg/500px-Bathroom_Man.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bathroom_scale_Pinhead_icon.svg/500px-Bathroom_scale_Pinhead_icon.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Roters_Illustrators_10828_%28bathroom%29.svg/500px-Roters_Illustrators_10828_%28bathroom%29.svg.png"
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YmF0aHJvb218ZW58MXwwfHx8MTc5NDA3NzQ5MXww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "EFF · CC BY 3.0 us",
-      "Health Icons contributors · CC0",
-      "AnonymousUnknown author · Public domain"
+      "Photo by Lotus Design N Print on Unsplash (https://unsplash.com/@lotusdnp?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bathroom_Man.svg/500px-Bathroom_Man.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YmF0aHJvb218ZW58MXwwfHx8MTc5NDA3NzQ5MXww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "The bathroom is very clean.",
     "exampleZh": "浴室好乾淨。"
   },
@@ -929,19 +869,15 @@
     "zh": "美麗的",
     "pos": "adj",
     "theme": "describing",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Beautiful-Decay_logo.svg/500px-Beautiful-Decay_logo.svg.png",
-    "imageCredit": "Beautiful/Decay · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YmVhdXRpZnVsfGVufDF8MHx8fDE3OTQyMDI0ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Greg Rakozy on Unsplash (https://unsplash.com/@grakozy?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Beautiful-Decay_logo.svg/500px-Beautiful-Decay_logo.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cyrillic_letter_beautiful_omega.svg/500px-Cyrillic_letter_beautiful_omega.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/The_Bold_%26_the_Beautiful_%28initial_logo%29.svg/500px-The_Bold_%26_the_Beautiful_%28initial_logo%29.svg.png"
+      "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YmVhdXRpZnVsfGVufDF8MHx8fDE3OTQyMDI0ODF8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Beautiful/Decay · Public domain",
-      "1234qwer1234qwer4 · CC BY-SA 4.0",
-      "Bell-Phillip Television Productions Inc. · Public domain"
+      "Photo by Greg Rakozy on Unsplash (https://unsplash.com/@grakozy?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Beautiful-Decay_logo.svg/500px-Beautiful-Decay_logo.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YmVhdXRpZnVsfGVufDF8MHx8fDE3OTQyMDI0ODF8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "The beautiful garden has many flowers.",
     "exampleZh": "個美麗嘅花園有好多花。"
   },
@@ -951,19 +887,15 @@
     "zh": "睡房",
     "pos": "n",
     "theme": "home",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Illustrations.co_Day_58_bedroom.svg/500px-Illustrations.co_Day_58_bedroom.svg.png",
-    "imageCredit": "Vijay Verma · MIT",
+    "imageUrl": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8YmVkcm9vbXxlbnwxfDB8fHwxNzk0MDc4Mzc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Quilia on Unsplash (https://unsplash.com/@heyquilia?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Illustrations.co_Day_58_bedroom.svg/500px-Illustrations.co_Day_58_bedroom.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gone_Home_-_Bedroom.png/500px-Gone_Home_-_Bedroom.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hawling_Manor%2C_Andoversford%2C_a_bedroom.png/500px-Hawling_Manor%2C_Andoversford%2C_a_bedroom.png"
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8YmVkcm9vbXxlbnwxfDB8fHwxNzk0MDc4Mzc4fDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Vijay Verma · MIT",
-      "The Fullbright Company - http://www.thefullbrightcompany.com · CC BY-SA 3.0",
-      "Unknown authorUnknown author · Public domain"
+      "Photo by Quilia on Unsplash (https://unsplash.com/@heyquilia?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Illustrations.co_Day_58_bedroom.svg/500px-Illustrations.co_Day_58_bedroom.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8YmVkcm9vbXxlbnwxfDB8fHwxNzk0MDc4Mzc4fDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "I sleep in my bedroom at night.",
     "exampleZh": "我晚上會在自己的睡房入睡。"
   },
@@ -1039,19 +971,15 @@
     "zh": "生日",
     "pos": "n",
     "theme": "time",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cartoon_Happy_Birthday_Cake.svg/500px-Cartoon_Happy_Birthday_Cake.svg.png",
-    "imageCredit": "Images of happy birthday · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1531956531700-dc0ee0f1f9a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8YmlydGhkYXl8ZW58MXwwfHx8MTc5NDA3OTMzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Lidya Nada on Unsplash (https://unsplash.com/@lidyanada?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cartoon_Happy_Birthday_Cake.svg/500px-Cartoon_Happy_Birthday_Cake.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/WIKIDATA%27S_8TH_BIRTHDAY_IN_IBADAN.svg/500px-WIKIDATA%27S_8TH_BIRTHDAY_IN_IBADAN.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Wikidata%27s_13th_Birthday_Tyap_Wikimedians.svg/500px-Wikidata%27s_13th_Birthday_Tyap_Wikimedians.svg.png"
+      "https://images.unsplash.com/photo-1531956531700-dc0ee0f1f9a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8YmlydGhkYXl8ZW58MXwwfHx8MTc5NDA3OTMzMnww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Images of happy birthday · CC BY-SA 4.0",
-      "Olaniyan Olushola · CC BY-SA 4.0",
-      "Danjuma Anthony · CC0"
+      "Photo by Lidya Nada on Unsplash (https://unsplash.com/@lidyanada?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cartoon_Happy_Birthday_Cake.svg/500px-Cartoon_Happy_Birthday_Cake.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1531956531700-dc0ee0f1f9a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8YmlydGhkYXl8ZW58MXwwfHx8MTc5NDA3OTMzMnww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "We celebrate her birthday with cake.",
     "exampleZh": "我哋會用蛋糕嚟慶祝佢嘅生日。"
   },
@@ -1061,19 +989,15 @@
     "zh": "餅乾",
     "pos": "n",
     "theme": "food",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burton%27s_Biscuit_Company_logo_2020.svg/500px-Burton%27s_Biscuit_Company_logo_2020.svg.png",
-    "imageCredit": "Burton's Biscuit Company · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1589988802149-7f9cb13a468e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8M3x8YmlzY3VpdHxlbnwxfDB8fHwxNzk0MDc5NzU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Habib Dadkhah on Unsplash (https://unsplash.com/@habibdadkhah?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burton%27s_Biscuit_Company_logo_2020.svg/500px-Burton%27s_Biscuit_Company_logo_2020.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Biscuits_Olibet_logo.svg/500px-Biscuits_Olibet_logo.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png"
+      "https://images.unsplash.com/photo-1589988802149-7f9cb13a468e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8M3x8YmlzY3VpdHxlbnwxfDB8fHwxNzk0MDc5NzU1fDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Burton's Biscuit Company · Public domain",
-      "Biscuits Olibet · Public domain",
-      "Nicu Buculei · CC0"
+      "Photo by Habib Dadkhah on Unsplash (https://unsplash.com/@habibdadkhah?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burton%27s_Biscuit_Company_logo_2020.svg/500px-Burton%27s_Biscuit_Company_logo_2020.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1589988802149-7f9cb13a468e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8M3x8YmlzY3VpdHxlbnwxfDB8fHwxNzk0MDc5NzU1fDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "I like to eat a biscuit with tea.",
     "exampleZh": "我鍾意配茶食一塊餅乾。"
   },
@@ -1105,19 +1029,15 @@
     "zh": "黑板",
     "pos": "n",
     "theme": "school",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Professor_Pointing_on_the_Blackboard_Cartoon.svg/500px-Professor_Pointing_on_the_Blackboard_Cartoon.svg.png",
-    "imageCredit": "VideoPlasty · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1635372722656-389f87a941b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8YmxhY2tib2FyZHxlbnwxfDB8fHwxNzk0MjAyNTU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Thomas T on Unsplash (https://unsplash.com/@pyssling240?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Professor_Pointing_on_the_Blackboard_Cartoon.svg/500px-Professor_Pointing_on_the_Blackboard_Cartoon.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Blackboard_Flat_Icon_Vector.svg/500px-Blackboard_Flat_Icon_Vector.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png"
+      "https://images.unsplash.com/photo-1635372722656-389f87a941b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8YmxhY2tib2FyZHxlbnwxfDB8fHwxNzk0MjAyNTU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "VideoPlasty · CC BY-SA 4.0",
-      "Nicu Buculei · CC0",
-      "Nicu Buculei · CC0"
+      "Photo by Thomas T on Unsplash (https://unsplash.com/@pyssling240?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Professor_Pointing_on_the_Blackboard_Cartoon.svg/500px-Professor_Pointing_on_the_Blackboard_Cartoon.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1635372722656-389f87a941b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8YmxhY2tib2FyZHxlbnwxfDB8fHwxNzk0MjAyNTU3fDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "The teacher writes on the blackboard.",
     "exampleZh": "老師會在黑板上寫字。"
   },
@@ -1127,19 +1047,15 @@
     "zh": "毯",
     "pos": "n",
     "theme": "home",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Blanket.svg/500px-Blanket.svg.png",
-    "imageCredit": "CC BY-SA 3.0",
+    "imageUrl": "https://images.unsplash.com/photo-1674475760738-8c7af859f821?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8YmxhbmtldHxlbnwxfDB8fHwxNzk0MDc5OTA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Bearaby on Unsplash (https://unsplash.com/@mybearaby?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Blanket.svg/500px-Blanket.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Fire_blanket_auto.svg/500px-Fire_blanket_auto.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Generic_Short_Vertical_Fire_Sign_-_Fire_Blanket.svg/500px-Generic_Short_Vertical_Fire_Sign_-_Fire_Blanket.svg.png"
+      "https://images.unsplash.com/photo-1674475760738-8c7af859f821?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8YmxhbmtldHxlbnwxfDB8fHwxNzk0MDc5OTA4fDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "CC BY-SA 3.0",
-      "Tugastugas · CC BY 4.0",
-      "Bigguy637 · CC0"
+      "Photo by Bearaby on Unsplash (https://unsplash.com/@mybearaby?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Blanket.svg/500px-Blanket.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1674475760738-8c7af859f821?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8YmxhbmtldHxlbnwxfDB8fHwxNzk0MDc5OTA4fDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "I use a blanket to keep warm.",
     "exampleZh": "我用被子保持溫暖。"
   },
@@ -1193,21 +1109,17 @@
     "zh": "書架",
     "pos": "n",
     "theme": "home",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bookman_Ornament%2C_Bookshelf_4858.svg/500px-Bookman_Ornament%2C_Bookshelf_4858.svg.png",
-    "imageCredit": "American Type Founders Company · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1719310469053-8c5c0c6803d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8Ym9va3NoZWxmfGVufDF8MHx8fDE3OTQyMDMyNTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Bhautik Patel on Unsplash (https://unsplash.com/@bhautik_patel3?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bookman_Ornament%2C_Bookshelf_4858.svg/500px-Bookman_Ornament%2C_Bookshelf_4858.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bookman_Ornament%2C_Gryphon_Bookshelf_7242.svg/500px-Bookman_Ornament%2C_Gryphon_Bookshelf_7242.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bookman_Ornament_4858_%28bookshelf%29.svg/500px-Bookman_Ornament_4858_%28bookshelf%29.svg.png"
+      "https://images.unsplash.com/photo-1719310469053-8c5c0c6803d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8Ym9va3NoZWxmfGVufDF8MHx8fDE3OTQyMDMyNTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "example": "My favourite novels are on the bookshelf.",
     "exampleZh": "我最鍾意嘅小說擺喺書架上。",
     "imageCredits": [
-      "American Type Founders Company · Public domain",
-      "AnonymousUnknown author · Public domain",
-      "AnonymousUnknown author · Public domain"
+      "Photo by Bhautik Patel on Unsplash (https://unsplash.com/@bhautik_patel3?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bookman_Ornament%2C_Bookshelf_4858.svg/500px-Bookman_Ornament%2C_Bookshelf_4858.svg.png"
+    "thumbUrl": "https://images.unsplash.com/photo-1719310469053-8c5c0c6803d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8Ym9va3NoZWxmfGVufDF8MHx8fDE3OTQyMDMyNTN8MA&ixlib=rb-4.1.0&q=80&w=400"
   },
   {
     "id": "bookstore",
@@ -1237,21 +1149,17 @@
     "zh": "借",
     "pos": "v",
     "theme": "verbs",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/2-3_finger_tree%2C_pop_from_deep%2C_no_borrow.svg/500px-2-3_finger_tree%2C_pop_from_deep%2C_no_borrow.svg.png",
-    "imageCredit": "Cocoa ruto · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1644185435044-6dd7e7856412?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Ym9ycm93fGVufDF8MHx8fDE3OTQyMDMzMzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Marlouk Rodijk on Unsplash (https://unsplash.com/@marloukrodijk?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/2-3_finger_tree%2C_pop_from_deep%2C_no_borrow.svg/500px-2-3_finger_tree%2C_pop_from_deep%2C_no_borrow.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Borrow_hydrogen_general.svg/500px-Borrow_hydrogen_general.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lugworm_borrow_section.svg/500px-Lugworm_borrow_section.svg.png"
+      "https://images.unsplash.com/photo-1644185435044-6dd7e7856412?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Ym9ycm93fGVufDF8MHx8fDE3OTQyMDMzMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "example": "May I borrow your pencil, please?",
     "exampleZh": "請問我可唔可以借你支鉛筆？",
     "imageCredits": [
-      "Cocoa ruto · CC0",
-      "Grasso Luigi · CC BY-SA 4.0",
-      "Cmglee · CC BY-SA 4.0"
+      "Photo by Marlouk Rodijk on Unsplash (https://unsplash.com/@marloukrodijk?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/2-3_finger_tree%2C_pop_from_deep%2C_no_borrow.svg/500px-2-3_finger_tree%2C_pop_from_deep%2C_no_borrow.svg.png"
+    "thumbUrl": "https://images.unsplash.com/photo-1644185435044-6dd7e7856412?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Ym9ycm93fGVufDF8MHx8fDE3OTQyMDMzMzB8MA&ixlib=rb-4.1.0&q=80&w=400"
   },
   {
     "id": "bracelet",
@@ -1281,19 +1189,15 @@
     "zh": "勇敢的",
     "pos": "adj",
     "theme": "feelings",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Brave-logo.svg/500px-Brave-logo.svg.png",
-    "imageCredit": "H.R.Ramos95 · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1484627147104-f5197bcd6651?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8YnJhdmV8ZW58MXwwfHx8MTc5NDA4MTUzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Denys Nevozhai on Unsplash (https://unsplash.com/@dnevozhai?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Brave-logo.svg/500px-Brave-logo.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Brave_Basic_Attention_Token_%28BAT%29_Logo.svg/500px-Brave_Basic_Attention_Token_%28BAT%29_Logo.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Brave_Browser_logotype.svg/500px-Brave_Browser_logotype.svg.png"
+      "https://images.unsplash.com/photo-1484627147104-f5197bcd6651?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8YnJhdmV8ZW58MXwwfHx8MTc5NDA4MTUzMHww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "H.R.Ramos95 · CC BY-SA 4.0",
-      "Brave Software · Public domain",
-      "Brave software · MPL 2"
+      "Photo by Denys Nevozhai on Unsplash (https://unsplash.com/@dnevozhai?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Brave-logo.svg/500px-Brave-logo.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1484627147104-f5197bcd6651?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8YnJhdmV8ZW58MXwwfHx8MTc5NDA4MTUzMHww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "The brave firefighter saved the cat.",
     "exampleZh": "勇敢嘅消防員救咗隻貓。"
   },
@@ -1303,19 +1207,15 @@
     "zh": "早餐",
     "pos": "n",
     "theme": "food",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Autocrat_of_the_Breakfast-Table_pg_39.svg/500px-Autocrat_of_the_Breakfast-Table_pg_39.svg.png",
-    "imageCredit": "Holmes, Oliver Wendell, 1841-1935 · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YnJlYWtmYXN0fGVufDF8MHx8fDE3OTQyMDM1NTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Rachel Park on Unsplash (https://unsplash.com/@therachelstory?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Autocrat_of_the_Breakfast-Table_pg_39.svg/500px-Autocrat_of_the_Breakfast-Table_pg_39.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Breakfast-eggs.svg/500px-Breakfast-eggs.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Breakfast.svg/500px-Breakfast.svg.png"
+      "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YnJlYWtmYXN0fGVufDF8MHx8fDE3OTQyMDM1NTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Holmes, Oliver Wendell, 1841-1935 · Public domain",
-      "publicdomainvectors.org · CC0",
-      "Thibault fr · CC BY-SA 3.0"
+      "Photo by Rachel Park on Unsplash (https://unsplash.com/@therachelstory?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Autocrat_of_the_Breakfast-Table_pg_39.svg/500px-Autocrat_of_the_Breakfast-Table_pg_39.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YnJlYWtmYXN0fGVufDF8MHx8fDE3OTQyMDM1NTl8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "We have breakfast at home.",
     "exampleZh": "我們在家吃早餐。"
   },
@@ -1369,19 +1269,15 @@
     "zh": "明亮的",
     "pos": "adj",
     "theme": "describing",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bright-A.svg/500px-Bright-A.svg.png",
-    "imageCredit": "Wikisteno · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1550859492-d5da9d8e45f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8YnJpZ2h0fGVufDF8MHx8fDE3OTQyMDM4ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Sean Sinclair on Unsplash (https://unsplash.com/@seanwsinclair?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bright-A.svg/500px-Bright-A.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bright-G.svg/500px-Bright-G.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bright-a.svg/500px-Bright-a.svg.png"
+      "https://images.unsplash.com/photo-1550859492-d5da9d8e45f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8YnJpZ2h0fGVufDF8MHx8fDE3OTQyMDM4ODN8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Wikisteno · Public domain",
-      "Wikisteno · Public domain",
-      "Wikisteno · Public domain"
+      "Photo by Sean Sinclair on Unsplash (https://unsplash.com/@seanwsinclair?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bright-A.svg/500px-Bright-A.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1550859492-d5da9d8e45f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8YnJpZ2h0fGVufDF8MHx8fDE3OTQyMDM4ODN8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "The bright sun lit up the playground.",
     "exampleZh": "明亮嘅太陽照亮咗遊樂場。"
   },
@@ -1457,19 +1353,15 @@
     "zh": "建造",
     "pos": "v",
     "theme": "verbs",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Build_Initiative_Logo.svg/500px-Build_Initiative_Logo.svg.png",
-    "imageCredit": "Build Initiative Foundation · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1531834685032-c34bf0d84c77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8YnVpbGR8ZW58MXwwfHx8MTc5NDIwNDAzNnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Josue Isai Ramos Figueroa on Unsplash (https://unsplash.com/@jramos10?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Build_Initiative_Logo.svg/500px-Build_Initiative_Logo.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cake-Build.svg/500px-Cake-Build.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_of_Build-Tools.svg/500px-Logo_of_Build-Tools.svg.png"
+      "https://images.unsplash.com/photo-1531834685032-c34bf0d84c77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8YnVpbGR8ZW58MXwwfHx8MTc5NDIwNDAzNnww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Build Initiative Foundation · Public domain",
-      "Patrik Svensson · CC BY 4.0",
-      "Tom81379 · CC BY-SA 4.0"
+      "Photo by Josue Isai Ramos Figueroa on Unsplash (https://unsplash.com/@jramos10?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Build_Initiative_Logo.svg/500px-Build_Initiative_Logo.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1531834685032-c34bf0d84c77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8YnVpbGR8ZW58MXwwfHx8MTc5NDIwNDAzNnww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "We build a house with blocks.",
     "exampleZh": "我哋用積木起一間屋。"
   },
@@ -1501,19 +1393,15 @@
     "zh": "蝴蝶",
     "pos": "n",
     "theme": "animals",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Butterfly-clipart.svg/500px-Butterfly-clipart.svg.png",
-    "imageCredit": "png file by User:Dvortygirl, converted to svg by User:Amada44 · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1560263816-d704d83cce0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YnV0dGVyZmx5fGVufDF8MHx8fDE3OTQyMDQxMTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Fleur on Unsplash (https://unsplash.com/@yer_a_wizard?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Butterfly-clipart.svg/500px-Butterfly-clipart.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/A_Butterfly_2.svg/500px-A_Butterfly_2.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Butterfly-fractal-openclipart-publicdomain.svg/500px-Butterfly-fractal-openclipart-publicdomain.svg.png"
+      "https://images.unsplash.com/photo-1560263816-d704d83cce0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YnV0dGVyZmx5fGVufDF8MHx8fDE3OTQyMDQxMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "png file by User:Dvortygirl, converted to svg by User:Amada44 · Public domain",
-      "VictorExclamation · CC BY 3.0",
-      "GDJ, openclipart.org (public domain) · CC0"
+      "Photo by Fleur on Unsplash (https://unsplash.com/@yer_a_wizard?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Butterfly-clipart.svg/500px-Butterfly-clipart.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1560263816-d704d83cce0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8YnV0dGVyZmx5fGVufDF8MHx8fDE3OTQyMDQxMTN8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "The butterfly is very beautiful.",
     "exampleZh": "蝴蝶好靚。"
   },
@@ -1545,19 +1433,15 @@
     "zh": "椰菜",
     "pos": "n",
     "theme": "food",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/202206_Vegetable_cabbage.svg/500px-202206_Vegetable_cabbage.svg.png",
-    "imageCredit": "Designed by hiroe moriDataBase Center for Life Science (DBCLS) · CC BY 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1652860213441-6622f9fec77f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y2FiYmFnZXxlbnwxfDB8fHwxNzk0MjA0MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by shilpa poonattil on Unsplash (https://unsplash.com/@shilpapoonattil?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/202206_Vegetable_cabbage.svg/500px-202206_Vegetable_cabbage.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/202206_Vegetable_chinese-cabbage.svg/500px-202206_Vegetable_chinese-cabbage.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Cabbage_%28PSF%29.svg/500px-Cabbage_%28PSF%29.svg.png"
+      "https://images.unsplash.com/photo-1652860213441-6622f9fec77f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y2FiYmFnZXxlbnwxfDB8fHwxNzk0MjA0MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Designed by hiroe moriDataBase Center for Life Science (DBCLS) · CC BY 4.0",
-      "Pearson Scott Foresman · Public domain",
-      "Pearson Scott Foresman · Public domain"
+      "Photo by shilpa poonattil on Unsplash (https://unsplash.com/@shilpapoonattil?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/202206_Vegetable_cabbage.svg/500px-202206_Vegetable_cabbage.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1652860213441-6622f9fec77f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y2FiYmFnZXxlbnwxfDB8fHwxNzk0MjA0MTg5fDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "My mom cooks cabbage for dinner.",
     "exampleZh": "我媽媽煮白菜做晚餐。"
   },
@@ -1589,19 +1473,15 @@
     "zh": "日曆",
     "pos": "n",
     "theme": "time",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Apple_Calendar_%28iOS%29.svg/500px-Apple_Calendar_%28iOS%29.svg.png",
-    "imageCredit": "Apple Inc. · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1633526543814-9718c8922b7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y2FsZW5kYXJ8ZW58MXwwfHx8MTc5NDIwNDI2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Towfiqu barbhuiya on Unsplash (https://unsplash.com/@towfiqu999999?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Apple_Calendar_%28iOS%29.svg/500px-Apple_Calendar_%28iOS%29.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Calendar_Pinhead_icon.svg/500px-Calendar_Pinhead_icon.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Calendar_with_wheelie_bin_Pinhead_icon.svg/500px-Calendar_with_wheelie_bin_Pinhead_icon.svg.png"
+      "https://images.unsplash.com/photo-1633526543814-9718c8922b7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y2FsZW5kYXJ8ZW58MXwwfHx8MTc5NDIwNDI2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Apple Inc. · Public domain",
-      "OpenGemeenten contributors · CC0",
-      "OpenGemeenten contributors · CC0"
+      "Photo by Towfiqu barbhuiya on Unsplash (https://unsplash.com/@towfiqu999999?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Apple_Calendar_%28iOS%29.svg/500px-Apple_Calendar_%28iOS%29.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1633526543814-9718c8922b7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y2FsZW5kYXJ8ZW58MXwwfHx8MTc5NDIwNDI2Nnww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Mark the date on the calendar.",
     "exampleZh": "喺日曆上面標註個日子。"
   },
@@ -1611,19 +1491,15 @@
     "zh": "露營",
     "pos": "n",
     "theme": "sports",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
-    "imageCredit": "Nicu Buculei · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y2FtcGluZ3xlbnwxfDB8fHwxNzk0MjA0NjIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Scott Goodwill on Unsplash (https://unsplash.com/@scottagoodwill?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Clipart-bench.svg/500px-Clipart-bench.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Illustration_free-diver_swimming_in_water.svg/500px-Illustration_free-diver_swimming_in_water.svg.png"
+      "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y2FtcGluZ3xlbnwxfDB8fHwxNzk0MjA0NjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Nicu Buculei · CC0",
-      "MScharwies · CC BY-SA 4.0",
-      "Goran_tek-en · CC BY-SA 4.0"
+      "Photo by Scott Goodwill on Unsplash (https://unsplash.com/@scottagoodwill?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y2FtcGluZ3xlbnwxfDB8fHwxNzk0MjA0NjIwfDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "We go camping in the countryside.",
     "exampleZh": "我哋去郊外露營。"
   },
@@ -1633,19 +1509,15 @@
     "zh": "蠟燭",
     "pos": "n",
     "theme": "misc",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bookman_Ornament%2C_Books_Candle_14401.svg/500px-Bookman_Ornament%2C_Books_Candle_14401.svg.png",
-    "imageCredit": "American Type Founders Company · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1489101960932-eb71762e6bc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8Y2FuZGxlfGVufDF8MHx8fDE3OTQyMDQ2OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by David Monje on Unsplash (https://unsplash.com/@davidmonje?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bookman_Ornament%2C_Books_Candle_14401.svg/500px-Bookman_Ornament%2C_Books_Candle_14401.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Candle-Red_Inkscape.svg/500px-Candle-Red_Inkscape.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Candle_03.svg/500px-Candle_03.svg.png"
+      "https://images.unsplash.com/photo-1489101960932-eb71762e6bc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8Y2FuZGxlfGVufDF8MHx8fDE3OTQyMDQ2OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "American Type Founders Company · Public domain",
-      "PhantomMeep · CC BY-SA 4.0",
-      "Nevit Dilmen (talk) · CC BY-SA 3.0"
+      "Photo by David Monje on Unsplash (https://unsplash.com/@davidmonje?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bookman_Ornament%2C_Books_Candle_14401.svg/500px-Bookman_Ornament%2C_Books_Candle_14401.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1489101960932-eb71762e6bc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8Y2FuZGxlfGVufDF8MHx8fDE3OTQyMDQ2OTZ8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "There is a beautiful candle on the table.",
     "exampleZh": "枱上面有一支靚蠟燭。"
   },
@@ -1675,21 +1547,17 @@
     "zh": "地毯",
     "pos": "n",
     "theme": "home",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Carpet_Elements_English.svg/500px-Carpet_Elements_English.svg.png",
-    "imageCredit": "HajjiBaba · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1572123979839-3749e9973aba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8Y2FycGV0fGVufDF8MHx8fDE3OTQyMDUxNzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Kadir Celep on Unsplash (https://unsplash.com/@kadircelep?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Carpet_Elements_English.svg/500px-Carpet_Elements_English.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Red-carpet_-_Delapouite_-_game-icons.svg/500px-Red-carpet_-_Delapouite_-_game-icons.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sierpinski_carpet_0.svg/500px-Sierpinski_carpet_0.svg.png"
+      "https://images.unsplash.com/photo-1572123979839-3749e9973aba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8Y2FycGV0fGVufDF8MHx8fDE3OTQyMDUxNzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "example": "The living room has a soft carpet.",
     "exampleZh": "客廳有一張軟軟嘅地毯。",
     "imageCredits": [
-      "HajjiBaba · CC BY-SA 4.0",
-      "Delapouite · CC BY 3.0",
-      "Johannes Rössel · Public domain"
+      "Photo by Kadir Celep on Unsplash (https://unsplash.com/@kadircelep?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Carpet_Elements_English.svg/500px-Carpet_Elements_English.svg.png"
+    "thumbUrl": "https://images.unsplash.com/photo-1572123979839-3749e9973aba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8Y2FycGV0fGVufDF8MHx8fDE3OTQyMDUxNzh8MA&ixlib=rb-4.1.0&q=80&w=400"
   },
   {
     "id": "carry",
@@ -1697,19 +1565,15 @@
     "zh": "攜帶",
     "pos": "v",
     "theme": "verbs",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
-    "imageCredit": "Nicu Buculei · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1569870614214-04b2aef402c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8Y2Fycnl8ZW58MXwwfHx8MTc5NDIwNTI1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Ante Hamersmit on Unsplash (https://unsplash.com/@ante_kante?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Clipart-bench.svg/500px-Clipart-bench.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Illustration_free-diver_swimming_in_water.svg/500px-Illustration_free-diver_swimming_in_water.svg.png"
+      "https://images.unsplash.com/photo-1569870614214-04b2aef402c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8Y2Fycnl8ZW58MXwwfHx8MTc5NDIwNTI1NHww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Nicu Buculei · CC0",
-      "MScharwies · CC BY-SA 4.0",
-      "Goran_tek-en · CC BY-SA 4.0"
+      "Photo by Ante Hamersmit on Unsplash (https://unsplash.com/@ante_kante?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1569870614214-04b2aef402c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8Y2Fycnl8ZW58MXwwfHx8MTc5NDIwNTI1NHww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Can you carry my bag for me?",
     "exampleZh": "你可以幫我提袋嗎？"
   },
@@ -1719,19 +1583,15 @@
     "zh": "城堡",
     "pos": "n",
     "theme": "misc",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
-    "imageCredit": "Nicu Buculei · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1449452198679-05c7fd30f416?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y2FzdGxlfGVufDF8MHx8fDE3OTQyMDUzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Rachel Davis on Unsplash (https://unsplash.com/@rmaedavis?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Clipart-bench.svg/500px-Clipart-bench.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Illustration_free-diver_swimming_in_water.svg/500px-Illustration_free-diver_swimming_in_water.svg.png"
+      "https://images.unsplash.com/photo-1449452198679-05c7fd30f416?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y2FzdGxlfGVufDF8MHx8fDE3OTQyMDUzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Nicu Buculei · CC0",
-      "MScharwies · CC BY-SA 4.0",
-      "Goran_tek-en · CC BY-SA 4.0"
+      "Photo by Rachel Davis on Unsplash (https://unsplash.com/@rmaedavis?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1449452198679-05c7fd30f416?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y2FzdGxlfGVufDF8MHx8fDE3OTQyMDUzMzF8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "The old castle stands on a hill.",
     "exampleZh": "座舊城堡企喺山上。"
   },
@@ -1741,19 +1601,15 @@
     "zh": "接住",
     "pos": "v",
     "theme": "verbs",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
-    "imageCredit": "Nicu Buculei · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1676734361331-2facf0501d6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8Y2F0Y2h8ZW58MXwwfHx8MTc5NDA4NTYzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Marijn van der Marel on Unsplash (https://unsplash.com/@marijnvdmarel?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Clipart-bench.svg/500px-Clipart-bench.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Illustration_free-diver_swimming_in_water.svg/500px-Illustration_free-diver_swimming_in_water.svg.png"
+      "https://images.unsplash.com/photo-1676734361331-2facf0501d6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8Y2F0Y2h8ZW58MXwwfHx8MTc5NDA4NTYzMHww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Nicu Buculei · CC0",
-      "MScharwies · CC BY-SA 4.0",
-      "Goran_tek-en · CC BY-SA 4.0"
+      "Photo by Marijn van der Marel on Unsplash (https://unsplash.com/@marijnvdmarel?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1676734361331-2facf0501d6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8Y2F0Y2h8ZW58MXwwfHx8MTc5NDA4NTYzMHww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "I catch a ball in the park.",
     "exampleZh": "我喺公園接住一個波。"
   },
@@ -1785,19 +1641,15 @@
     "zh": "天花板",
     "pos": "n",
     "theme": "home",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
-    "imageCredit": "Nicu Buculei · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1505235183152-1a0d5e366a5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8Y2VpbGluZ3xlbnwxfDB8fHwxNzk0MjA1NDA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Weronika Romanowska on Unsplash (https://unsplash.com/@weronikam?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Clipart-bench.svg/500px-Clipart-bench.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Illustration_free-diver_swimming_in_water.svg/500px-Illustration_free-diver_swimming_in_water.svg.png"
+      "https://images.unsplash.com/photo-1505235183152-1a0d5e366a5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8Y2VpbGluZ3xlbnwxfDB8fHwxNzk0MjA1NDA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Nicu Buculei · CC0",
-      "MScharwies · CC BY-SA 4.0",
-      "Goran_tek-en · CC BY-SA 4.0"
+      "Photo by Weronika Romanowska on Unsplash (https://unsplash.com/@weronikam?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1505235183152-1a0d5e366a5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8Y2VpbGluZ3xlbnwxfDB8fHwxNzk0MjA1NDA3fDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "The ceiling is very high.",
     "exampleZh": "天花板好高。"
   },
@@ -2071,19 +1923,15 @@
     "zh": "朱古力",
     "pos": "n",
     "theme": "food",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Chocolate_cooling_curves.svg/500px-Chocolate_cooling_curves.svg.png",
-    "imageCredit": "SKopp · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1565071559227-20ab25b7685e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8Y2hvY29sYXRlfGVufDF8MHx8fDE3OTQyMDU0ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Michele Blackwell on Unsplash (https://unsplash.com/@mab_studio?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Chocolate_cooling_curves.svg/500px-Chocolate_cooling_curves.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Chocolate_cooling_curves_2.svg/500px-Chocolate_cooling_curves_2.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Chocolate_in_classic_standard_style.svg/500px-Chocolate_in_classic_standard_style.svg.png"
+      "https://images.unsplash.com/photo-1565071559227-20ab25b7685e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8Y2hvY29sYXRlfGVufDF8MHx8fDE3OTQyMDU0ODN8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "SKopp · CC BY-SA 4.0",
-      "Openstrokeicons · CC0",
-      "Openstrokeicons · CC0"
+      "Photo by Michele Blackwell on Unsplash (https://unsplash.com/@mab_studio?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Chocolate_cooling_curves.svg/500px-Chocolate_cooling_curves.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1565071559227-20ab25b7685e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8Y2hvY29sYXRlfGVufDF8MHx8fDE3OTQyMDU0ODN8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "I like a piece of chocolate after lunch.",
     "exampleZh": "食完午飯我鍾意食一塊朱古力。"
   },
@@ -2115,19 +1963,15 @@
     "zh": "戲院",
     "pos": "n",
     "theme": "places",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/1980-_Summer_cinema_box_office_revenue.svg/500px-1980-_Summer_cinema_box_office_revenue.svg.png",
-    "imageCredit": "RCraig09 · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8Y2luZW1hfGVufDF8MHx8fDE3OTQwOTA3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Myke Simon on Unsplash (https://unsplash.com/@myke_simon?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/1980-_Summer_cinema_box_office_revenue.svg/500px-1980-_Summer_cinema_box_office_revenue.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cinema-logo.svg/500px-Cinema-logo.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cinema_%2776_logo.svg/500px-Cinema_%2776_logo.svg.png"
+      "https://images.unsplash.com/photo-1536440136628-849c177e76a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8Y2luZW1hfGVufDF8MHx8fDE3OTQwOTA3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "RCraig09 · CC BY-SA 4.0",
-      "Német wikipedia Cinema oldala · Public domain",
-      "Cinema '76 Film Society · Public domain"
+      "Photo by Myke Simon on Unsplash (https://unsplash.com/@myke_simon?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/1980-_Summer_cinema_box_office_revenue.svg/500px-1980-_Summer_cinema_box_office_revenue.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8Y2luZW1hfGVufDF8MHx8fDE3OTQwOTA3NDl8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "I watch movies at the cinema.",
     "exampleZh": "我在電影院睇戲。"
   },
@@ -2137,19 +1981,15 @@
     "zh": "圓形",
     "pos": "n",
     "theme": "describing",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Blank_7_circle_diagram.svg/500px-Blank_7_circle_diagram.svg.png",
-    "imageCredit": "Amousey · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1541913299-273fd84d10c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y2lyY2xlfGVufDF8MHx8fDE3OTQwOTA4ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Chaitanya Tatikonda on Unsplash (https://unsplash.com/@tvschaitanya?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Blank_7_circle_diagram.svg/500px-Blank_7_circle_diagram.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Circle-image.svg/500px-Circle-image.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Circle_%28parameters_h%2Ck%2Cr%2Cx%2Cy%29.svg/500px-Circle_%28parameters_h%2Ck%2Cr%2Cx%2Cy%29.svg.png"
+      "https://images.unsplash.com/photo-1541913299-273fd84d10c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y2lyY2xlfGVufDF8MHx8fDE3OTQwOTA4ODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Amousey · Public domain",
-      "Oue1998 · Public domain",
-      "Steven Baltakatei Baltakatei · CC BY-SA 4.0"
+      "Photo by Chaitanya Tatikonda on Unsplash (https://unsplash.com/@tvschaitanya?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Blank_7_circle_diagram.svg/500px-Blank_7_circle_diagram.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1541913299-273fd84d10c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y2lyY2xlfGVufDF8MHx8fDE3OTQwOTA4ODV8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Draw a circle with your compass.",
     "exampleZh": "用圓規畫一個圓形。"
   },
@@ -2247,19 +2087,15 @@
     "zh": "爬",
     "pos": "v",
     "theme": "verbs",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Climb_profile_Alto_de_Angliru_%28La_Vega%29.svg/500px-Climb_profile_Alto_de_Angliru_%28La_Vega%29.svg.png",
-    "imageCredit": "INOUIW · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1522163182402-834f871fd851?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y2xpbWJ8ZW58MXwwfHx8MTc5NDA5MTE5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Hu Chen on Unsplash (https://unsplash.com/@huchenme?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Climb_profile_Alto_de_Angliru_%28La_Vega%29.svg/500px-Climb_profile_Alto_de_Angliru_%28La_Vega%29.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Climb_profile_Alto_de_Angliru_%28Santa_Eulalia%29.svg/500px-Climb_profile_Alto_de_Angliru_%28Santa_Eulalia%29.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BFL_Climbing_Combine.svg/500px-BFL_Climbing_Combine.svg.png"
+      "https://images.unsplash.com/photo-1522163182402-834f871fd851?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y2xpbWJ8ZW58MXwwfHx8MTc5NDA5MTE5MHww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "INOUIW · CC BY-SA 4.0",
-      "Bifty · CC BY-SA 4.0",
-      "Bifty · CC BY-SA 4.0"
+      "Photo by Hu Chen on Unsplash (https://unsplash.com/@huchenme?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Climb_profile_Alto_de_Angliru_%28La_Vega%29.svg/500px-Climb_profile_Alto_de_Angliru_%28La_Vega%29.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1522163182402-834f871fd851?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y2xpbWJ8ZW58MXwwfHx8MTc5NDA5MTE5MHww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "We climb the hill every Sunday.",
     "exampleZh": "我哋逢星期日爬山。"
   },
@@ -2357,19 +2193,15 @@
     "zh": "顏色",
     "pos": "n",
     "theme": "colours",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
-    "imageCredit": "Nicu Buculei · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1502691876148-a84978e59af8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y29sb3VyfGVufDF8MHx8fDE3OTQwOTYyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Robert Katzki on Unsplash (https://unsplash.com/@ro_ka?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Clipart-bench.svg/500px-Clipart-bench.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Illustration_free-diver_swimming_in_water.svg/500px-Illustration_free-diver_swimming_in_water.svg.png"
+      "https://images.unsplash.com/photo-1502691876148-a84978e59af8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y29sb3VyfGVufDF8MHx8fDE3OTQwOTYyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Nicu Buculei · CC0",
-      "MScharwies · CC BY-SA 4.0",
-      "Goran_tek-en · CC BY-SA 4.0"
+      "Photo by Robert Katzki on Unsplash (https://unsplash.com/@ro_ka?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1502691876148-a84978e59af8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Y29sb3VyfGVufDF8MHx8fDE3OTQwOTYyMzB8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "What is your favourite colour?",
     "exampleZh": "你最鍾意咩顏色？"
   },
@@ -2841,19 +2673,15 @@
     "zh": "堂表親",
     "pos": "n",
     "theme": "people",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armoiries_famille_fr_Cousin_%28de_Nozeroy%29.svg/500px-Armoiries_famille_fr_Cousin_%28de_Nozeroy%29.svg.png",
-    "imageCredit": "CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1528808302-cddd825c94fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8Y291c2lufGVufDF8MHx8fDE3OTQwOTg1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by IIONA VIRGIN on Unsplash (https://unsplash.com/@virgin?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armoiries_famille_fr_Cousin_%28de_Nozeroy%29.svg/500px-Armoiries_famille_fr_Cousin_%28de_Nozeroy%29.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Blason_famille_fr_Cousin_%28Nozeroy%29.svg/500px-Blason_famille_fr_Cousin_%28Nozeroy%29.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cousin.svg/500px-Cousin.svg.png"
+      "https://images.unsplash.com/photo-1528808302-cddd825c94fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8Y291c2lufGVufDF8MHx8fDE3OTQwOTg1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "CC BY-SA 4.0",
-      "The original uploader was Joopwiki at Dutch Wikipedia.\n\n(Original text: joopwiki · CC BY-SA 3.0",
-      "The original uploader was Joopwiki at Dutch Wikipedia.\n\n(Original text: joopwiki · CC BY-SA 3.0"
+      "Photo by IIONA VIRGIN on Unsplash (https://unsplash.com/@virgin?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armoiries_famille_fr_Cousin_%28de_Nozeroy%29.svg/500px-Armoiries_famille_fr_Cousin_%28de_Nozeroy%29.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1528808302-cddd825c94fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8Y291c2lufGVufDF8MHx8fDE3OTQwOTg1MDh8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "My cousin lives in Kowloon.",
     "exampleZh": "我嘅堂表親住喺九龍。"
   },
@@ -3353,19 +3181,15 @@
     "zh": "牙醫",
     "pos": "n",
     "theme": "jobs",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Female_dentist_with_a_patient.svg/500px-Female_dentist_with_a_patient.svg.png",
-    "imageCredit": "j4p4n · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1489278353717-f64c6ee8a4d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8ZGVudGlzdHxlbnwxfDB8fHwxNzk0MDk5MjcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Lesly Juarez on Unsplash (https://unsplash.com/@jblesly?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Female_dentist_with_a_patient.svg/500px-Female_dentist_with_a_patient.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Maki-dentist-11.svg/500px-Maki-dentist-11.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Maki-dentist-15.svg/500px-Maki-dentist-15.svg.png"
+      "https://images.unsplash.com/photo-1489278353717-f64c6ee8a4d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8ZGVudGlzdHxlbnwxfDB8fHwxNzk0MDk5MjcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "j4p4n · CC0",
-      "Mapbox, https://github.com/mapbox/maki/graphs/contributors · CC0",
-      "Mapbox, https://github.com/mapbox/maki/graphs/contributors · CC0"
+      "Photo by Lesly Juarez on Unsplash (https://unsplash.com/@jblesly?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Female_dentist_with_a_patient.svg/500px-Female_dentist_with_a_patient.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1489278353717-f64c6ee8a4d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8ZGVudGlzdHxlbnwxfDB8fHwxNzk0MDk5MjcxfDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "I visit the dentist twice a year.",
     "exampleZh": "我一年見牙醫兩次。"
   },
@@ -3717,19 +3541,15 @@
     "zh": "海豚",
     "pos": "n",
     "theme": "animals",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dolphin-logo.svg/500px-Dolphin-logo.svg.png",
-    "imageCredit": "MayImilae · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1562742686-0b38a29473ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8M3x8ZG9scGhpbnxlbnwxfDB8fHwxNzk0MTAyMDk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by NOAA on Unsplash (https://unsplash.com/@noaa?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dolphin-logo.svg/500px-Dolphin-logo.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dolphin_Emulator_Logo_Refresh.svg/500px-Dolphin_Emulator_Logo_Refresh.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Dolphin_head-bn.svg/500px-Dolphin_head-bn.svg.png"
+      "https://images.unsplash.com/photo-1562742686-0b38a29473ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8M3x8ZG9scGhpbnxlbnwxfDB8fHwxNzk0MTAyMDk3fDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "MayImilae · CC0",
-      "MayImilae · CC BY-SA 4.0",
-      "Moheen Reeyad · CC BY-SA 4.0"
+      "Photo by NOAA on Unsplash (https://unsplash.com/@noaa?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dolphin-logo.svg/500px-Dolphin-logo.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1562742686-0b38a29473ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8M3x8ZG9scGhpbnxlbnwxfDB8fHwxNzk0MTAyMDk3fDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "The dolphin jumps in the sea.",
     "exampleZh": "海豚跳出海面。"
   },
@@ -3785,19 +3605,15 @@
     "zh": "龍",
     "pos": "n",
     "theme": "misc",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Chinese_dragon_asset_heraldry.svg/500px-Chinese_dragon_asset_heraldry.svg.png",
-    "imageCredit": "User:Sodacan · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1514922121266-75835418bbf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8ZHJhZ29ufGVufDF8MHx8fDE3OTQxMDM3NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Carlos Cram on Unsplash (https://unsplash.com/@cramtek?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Chinese_dragon_asset_heraldry.svg/500px-Chinese_dragon_asset_heraldry.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dragon-slayer_headpiece.svg/500px-Dragon-slayer_headpiece.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dragon.svg/500px-Dragon.svg.png"
+      "https://images.unsplash.com/photo-1514922121266-75835418bbf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8ZHJhZ29ufGVufDF8MHx8fDE3OTQxMDM3NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "User:Sodacan · CC BY-SA 4.0",
-      "AnonymousUnknown author · Public domain",
-      "Angelus (talk) · CC BY-SA 3.0"
+      "Photo by Carlos Cram on Unsplash (https://unsplash.com/@cramtek?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Chinese_dragon_asset_heraldry.svg/500px-Chinese_dragon_asset_heraldry.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1514922121266-75835418bbf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8ZHJhZ29ufGVufDF8MHx8fDE3OTQxMDM3NzZ8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "A red dragon danced in the parade.",
     "exampleZh": "一條紅龍喺巡遊中起舞。"
   },
@@ -4289,19 +4105,15 @@
     "zh": "傍晚",
     "pos": "n",
     "theme": "time",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBS_Evening_News_2025.svg/500px-CBS_Evening_News_2025.svg.png",
-    "imageCredit": "Paramount Global · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1506606401543-2e73709cebb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8ZXZlbmluZ3xlbnwxfDB8fHwxNzk0MTA5MDk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Zac Ong on Unsplash (https://unsplash.com/@zacong?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBS_Evening_News_2025.svg/500px-CBS_Evening_News_2025.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/CBS_Evening_News_2025_%28Horizontal%29.svg/500px-CBS_Evening_News_2025_%28Horizontal%29.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CBS_Evening_News_horizontal_2022.svg/500px-CBS_Evening_News_horizontal_2022.svg.png"
+      "https://images.unsplash.com/photo-1506606401543-2e73709cebb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8ZXZlbmluZ3xlbnwxfDB8fHwxNzk0MTA5MDk3fDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Paramount Global · Public domain",
-      "Paramount Global · Public domain",
-      "Paramount Global · Public domain"
+      "Photo by Zac Ong on Unsplash (https://unsplash.com/@zacong?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBS_Evening_News_2025.svg/500px-CBS_Evening_News_2025.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1506606401543-2e73709cebb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8ZXZlbmluZ3xlbnwxfDB8fHwxNzk0MTA5MDk3fDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "We take a walk in the evening.",
     "exampleZh": "我哋傍晚會去散步。"
   },
@@ -4573,19 +4385,15 @@
     "zh": "仙女",
     "pos": "n",
     "theme": "misc",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fairy_With_Wand.svg/500px-Fairy_With_Wand.svg.png",
-    "imageCredit": "FunDraw_dot_com · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1524373050940-8f19e9b858a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8ZmFpcnl8ZW58MXwwfHx8MTc5NDEwOTM2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Anthony Tran on Unsplash (https://unsplash.com/@anthonytran?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fairy_With_Wand.svg/500px-Fairy_With_Wand.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pok%C3%A9mon_Fairy_Type_Icon.svg/500px-Pok%C3%A9mon_Fairy_Type_Icon.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Pok%C3%A9mon_type_Fairy_fr.svg/500px-Pok%C3%A9mon_type_Fairy_fr.svg.png"
+      "https://images.unsplash.com/photo-1524373050940-8f19e9b858a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8ZmFpcnl8ZW58MXwwfHx8MTc5NDEwOTM2NHww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "FunDraw_dot_com · CC0",
-      "Andreuvv · CC BY-SA 4.0",
-      "Ju gatsu mikka · CC0"
+      "Photo by Anthony Tran on Unsplash (https://unsplash.com/@anthonytran?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fairy_With_Wand.svg/500px-Fairy_With_Wand.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1524373050940-8f19e9b858a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8ZmFpcnl8ZW58MXwwfHx8MTc5NDEwOTM2NHww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "The story is about a kind fairy.",
     "exampleZh": "呢個故事講一位善良嘅仙女。"
   },
@@ -4727,19 +4535,15 @@
     "zh": "手指",
     "pos": "n",
     "theme": "body",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2-3_finger_tree%2C_description_of_finger%2C_Japanese.svg/500px-2-3_finger_tree%2C_description_of_finger%2C_Japanese.svg.png",
-    "imageCredit": "Cocoa ruto · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1602703291624-d470dbd741a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8ZmluZ2VyfGVufDF8MHx8fDE3OTQxMTAxNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Franco Antonio Giovanella on Unsplash (https://unsplash.com/@francogio?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2-3_finger_tree%2C_description_of_finger%2C_Japanese.svg/500px-2-3_finger_tree%2C_description_of_finger%2C_Japanese.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Button-finger_-_Delapouite_-_game-icons.svg/500px-Button-finger_-_Delapouite_-_game-icons.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/HD%40DH.nrw_Hand_zeigt_3_Finger.svg/500px-HD%40DH.nrw_Hand_zeigt_3_Finger.svg.png"
+      "https://images.unsplash.com/photo-1602703291624-d470dbd741a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8ZmluZ2VyfGVufDF8MHx8fDE3OTQxMTAxNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Cocoa ruto · CC0",
-      "Delapouite · CC BY 3.0",
-      "HD@DH.nrw | Michelle Dahlmanns · CC BY 4.0"
+      "Photo by Franco Antonio Giovanella on Unsplash (https://unsplash.com/@francogio?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2-3_finger_tree%2C_description_of_finger%2C_Japanese.svg/500px-2-3_finger_tree%2C_description_of_finger%2C_Japanese.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1602703291624-d470dbd741a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8ZmluZ2VyfGVufDF8MHx8fDE3OTQxMTAxNzZ8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Hold the pencil with your finger and thumb.",
     "exampleZh": "用手指同拇指捉住鉛筆。"
   },
@@ -4925,19 +4729,15 @@
     "zh": "森林",
     "pos": "n",
     "theme": "nature",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/8000_BCE%2B_Loss_of_forest_and_grassland_to_grazing_and_crops.svg/500px-8000_BCE%2B_Loss_of_forest_and_grassland_to_grazing_and_crops.svg.png",
-    "imageCredit": "RCraig09 · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Zm9yZXN0fGVufDF8MHx8fDE3OTQxMTA3MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Sebastian Unrau on Unsplash (https://unsplash.com/@sebastian_unrau?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/8000_BCE%2B_Loss_of_forest_and_grassland_to_grazing_and_crops.svg/500px-8000_BCE%2B_Loss_of_forest_and_grassland_to_grazing_and_crops.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Annual_forest_area_net_change%2C_by_decade_and_region%2C_1990%E2%80%932020.svg/500px-Annual_forest_area_net_change%2C_by_decade_and_region%2C_1990%E2%80%932020.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Forest_area_%28%25_of_land_area%29%2C_1990_vs._2015%2C_OWID.svg/500px-Forest_area_%28%25_of_land_area%29%2C_1990_vs._2015%2C_OWID.svg.png"
+      "https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Zm9yZXN0fGVufDF8MHx8fDE3OTQxMTA3MTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "RCraig09 · CC BY-SA 4.0",
-      "Food and Agriculture Organization of the United Nations (FAO) · CC BY-SA 3.0",
-      "Our World In Data · CC BY 3.0"
+      "Photo by Sebastian Unrau on Unsplash (https://unsplash.com/@sebastian_unrau?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/8000_BCE%2B_Loss_of_forest_and_grassland_to_grazing_and_crops.svg/500px-8000_BCE%2B_Loss_of_forest_and_grassland_to_grazing_and_crops.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8Zm9yZXN0fGVufDF8MHx8fDE3OTQxMTA3MTB8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Tall trees grow in the forest.",
     "exampleZh": "森林入面生滿高大樹木。"
   },
@@ -5299,19 +5099,15 @@
     "zh": "眼鏡",
     "pos": "n",
     "theme": "clothes",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/3d_glasses_anachrome.svg/500px-3d_glasses_anachrome.svg.png",
-    "imageCredit": "Timothy Gu · CC BY-SA 3.0",
+    "imageUrl": "https://images.unsplash.com/photo-1456081101716-74e616ab23d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8Z2xhc3Nlc3xlbnwxfDB8fHwxNzk0MTEyMDg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Dmitry Ratushny on Unsplash (https://unsplash.com/@ratushny?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/3d_glasses_anachrome.svg/500px-3d_glasses_anachrome.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/3d_glasses_colorcode.svg/500px-3d_glasses_colorcode.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/3d_glasses_inficolor.svg/500px-3d_glasses_inficolor.svg.png"
+      "https://images.unsplash.com/photo-1456081101716-74e616ab23d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8Z2xhc3Nlc3xlbnwxfDB8fHwxNzk0MTEyMDg1fDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Timothy Gu · CC BY-SA 3.0",
-      "Image created using Inkscape by Daniel Schwen. Modified by Thomas R. Schwarz. · CC BY-SA 3.0",
-      "Image created using Inkscape by Daniel Schwen. Modified by Thomas R. Schwarz. · CC BY-SA 3.0"
+      "Photo by Dmitry Ratushny on Unsplash (https://unsplash.com/@ratushny?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/3d_glasses_anachrome.svg/500px-3d_glasses_anachrome.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1456081101716-74e616ab23d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8Z2xhc3Nlc3xlbnwxfDB8fHwxNzk0MTEyMDg1fDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "I wear glasses when I read.",
     "exampleZh": "我睇書嗰陣戴眼鏡。"
   },
@@ -5695,19 +5491,15 @@
     "zh": "假期",
     "pos": "n",
     "theme": "time",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/2008_-_Philippines_Holiday_economics.svg/500px-2008_-_Philippines_Holiday_economics.svg.png",
-    "imageCredit": "Own work · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1482517967863-00e15c9b44be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8aG9saWRheXxlbnwxfDB8fHwxNzk0MTE3ODI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Chad Madden on Unsplash (https://unsplash.com/@chadmadden?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/2008_-_Philippines_Holiday_economics.svg/500px-2008_-_Philippines_Holiday_economics.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Billie_Holiday_signature.svg/500px-Billie_Holiday_signature.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Haven_Holiday_Wordmark.svg/500px-Haven_Holiday_Wordmark.svg.png"
+      "https://images.unsplash.com/photo-1482517967863-00e15c9b44be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8aG9saWRheXxlbnwxfDB8fHwxNzk0MTE3ODI3fDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Own work · CC0",
-      "Billie Holiday/Rock &amp; Roll Hall of Fame · Public domain",
-      "Haven Holidays · Public domain"
+      "Photo by Chad Madden on Unsplash (https://unsplash.com/@chadmadden?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/2008_-_Philippines_Holiday_economics.svg/500px-2008_-_Philippines_Holiday_economics.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1482517967863-00e15c9b44be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8aG9saWRheXxlbnwxfDB8fHwxNzk0MTE3ODI3fDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Summer holiday starts in July.",
     "exampleZh": "暑假七月開始。"
   },
@@ -5717,19 +5509,15 @@
     "zh": "家課",
     "pos": "n",
     "theme": "school",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/X-bar_syntax_tree_-_Donald%27s_homework_%28abstract_DP_head%29.svg/500px-X-bar_syntax_tree_-_Donald%27s_homework_%28abstract_DP_head%29.svg.png",
-    "imageCredit": "Kayau · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1560785496-3c9d27877182?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8aG9tZXdvcmt8ZW58MXwwfHx8MTc5NDExNzk4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Annie Spratt on Unsplash (https://unsplash.com/@anniespratt?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/X-bar_syntax_tree_-_Donald%27s_homework_%28abstract_DP_head%29.svg/500px-X-bar_syntax_tree_-_Donald%27s_homework_%28abstract_DP_head%29.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/X-bar_syntax_tree_-_Homework_killed_me.svg/500px-X-bar_syntax_tree_-_Homework_killed_me.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png"
+      "https://images.unsplash.com/photo-1560785496-3c9d27877182?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8aG9tZXdvcmt8ZW58MXwwfHx8MTc5NDExNzk4MHww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Kayau · CC BY-SA 4.0",
-      "Nicu Buculei · CC0",
-      "Nicu Buculei · CC0"
+      "Photo by Annie Spratt on Unsplash (https://unsplash.com/@anniespratt?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/X-bar_syntax_tree_-_Donald%27s_homework_%28abstract_DP_head%29.svg/500px-X-bar_syntax_tree_-_Donald%27s_homework_%28abstract_DP_head%29.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1560785496-3c9d27877182?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8aG9tZXdvcmt8ZW58MXwwfHx8MTc5NDExNzk4MHww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "I finish my homework before dinner.",
     "exampleZh": "我喺晚飯前做完家課。"
   },
@@ -5805,19 +5593,15 @@
     "zh": "醫院",
     "pos": "n",
     "theme": "places",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/GESTION_HOSPITALARIA_ECUADOR_01.svg/500px-GESTION_HOSPITALARIA_ECUADOR_01.svg.png",
-    "imageCredit": "DAIM93 · CC BY 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8aG9zcGl0YWx8ZW58MXwwfHx8MTc5NDExODIwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Adhy Savala on Unsplash (https://unsplash.com/@adhy?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/GESTION_HOSPITALARIA_ECUADOR_01.svg/500px-GESTION_HOSPITALARIA_ECUADOR_01.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/GESTION_HOSPITALARIA_ECUADOR_02.svg/500px-GESTION_HOSPITALARIA_ECUADOR_02.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/GESTION_HOSPITALARIA_ECUADOR_03.svg/500px-GESTION_HOSPITALARIA_ECUADOR_03.svg.png"
+      "https://images.unsplash.com/photo-1538108149393-fbbd81895907?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8aG9zcGl0YWx8ZW58MXwwfHx8MTc5NDExODIwOXww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "DAIM93 · CC BY 4.0",
-      "DAIM93 · CC BY 4.0",
-      "DAIM93 · CC BY 4.0"
+      "Photo by Adhy Savala on Unsplash (https://unsplash.com/@adhy?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/GESTION_HOSPITALARIA_ECUADOR_01.svg/500px-GESTION_HOSPITALARIA_ECUADOR_01.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8aG9zcGl0YWx8ZW58MXwwfHx8MTc5NDExODIwOXww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Nurses work hard in the hospital.",
     "exampleZh": "護士喺醫院好努力工作。"
   },
@@ -5915,19 +5699,15 @@
     "zh": "雪糕",
     "pos": "n",
     "theme": "food",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Magnum-icecream-logo.svg/500px-Magnum-icecream-logo.svg.png",
-    "imageCredit": "Langnese-Speiseeis / unilever · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1567206563064-6f60f40a2b57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8aWNlY3JlYW18ZW58MXwwfHx8MTc5NDEyMDA0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Lama Roscu on Unsplash (https://unsplash.com/@lamaroscu?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Magnum-icecream-logo.svg/500px-Magnum-icecream-logo.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Clipart-bench.svg/500px-Clipart-bench.svg.png"
+      "https://images.unsplash.com/photo-1567206563064-6f60f40a2b57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8aWNlY3JlYW18ZW58MXwwfHx8MTc5NDEyMDA0N3ww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Langnese-Speiseeis / unilever · Public domain",
-      "Nicu Buculei · CC0",
-      "MScharwies · CC BY-SA 4.0"
+      "Photo by Lama Roscu on Unsplash (https://unsplash.com/@lamaroscu?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Magnum-icecream-logo.svg/500px-Magnum-icecream-logo.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1567206563064-6f60f40a2b57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8aWNlY3JlYW18ZW58MXwwfHx8MTc5NDEyMDA0N3ww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "We bought icecream at the beach.",
     "exampleZh": "我哋喺沙灘買雪糕。"
   },
@@ -6223,19 +6003,15 @@
     "zh": "島",
     "pos": "n",
     "theme": "nature",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Island_-_Delapouite_-_game-icons.svg/500px-Island_-_Delapouite_-_game-icons.svg.png",
-    "imageCredit": "Delapouite · CC BY 3.0",
+    "imageUrl": "https://images.unsplash.com/photo-1502085671122-2d218cd434e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8aXNsYW5kfGVufDF8MHx8fDE3OTQxMjAxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Michael on Unsplash (https://unsplash.com/@michael75?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Island_-_Delapouite_-_game-icons.svg/500px-Island_-_Delapouite_-_game-icons.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Island_-_Delapouite_-_white_-_game-icons.svg/500px-Island_-_Delapouite_-_white_-_game-icons.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Island_with_Trees_Flat_Icon_Vector.svg/500px-Island_with_Trees_Flat_Icon_Vector.svg.png"
+      "https://images.unsplash.com/photo-1502085671122-2d218cd434e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8aXNsYW5kfGVufDF8MHx8fDE3OTQxMjAxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Delapouite · CC BY 3.0",
-      "VideoPlasty · CC BY-SA 4.0",
-      "VideoPlasty · CC BY-SA 4.0"
+      "Photo by Michael on Unsplash (https://unsplash.com/@michael75?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Island_-_Delapouite_-_game-icons.svg/500px-Island_-_Delapouite_-_game-icons.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1502085671122-2d218cd434e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8aXNsYW5kfGVufDF8MHx8fDE3OTQxMjAxMjN8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Lantau is a large island.",
     "exampleZh": "大嶼山係一個大島。"
   },
@@ -6245,19 +6021,15 @@
     "zh": "外套",
     "pos": "n",
     "theme": "clothes",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Life_jacket_Pinhead_icon.svg/500px-Life_jacket_Pinhead_icon.svg.png",
-    "imageCredit": "NPS contributors · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1543076447-215ad9ba6923?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8amFja2V0fGVufDF8MHx8fDE3OTQxMjAxOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by kemal alkan on Unsplash (https://unsplash.com/@kemalalkan?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Life_jacket_Pinhead_icon.svg/500px-Life_jacket_Pinhead_icon.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pattern_of_a_mens_jacket_%28ST572%29_MoMu_Antwerp.svg/500px-Pattern_of_a_mens_jacket_%28ST572%29_MoMu_Antwerp.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pictograms-nps-water-life_jacket-2.svg/500px-Pictograms-nps-water-life_jacket-2.svg.png"
+      "https://images.unsplash.com/photo-1543076447-215ad9ba6923?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8amFja2V0fGVufDF8MHx8fDE3OTQxMjAxOTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "NPS contributors · CC0",
-      "Stijn Van den Bulck (pattern) &amp; Samira Lafkioui (digital) · CC BY-SA 4.0",
-      "NPS Graphics, converted by User:ZyMOS · Public domain"
+      "Photo by kemal alkan on Unsplash (https://unsplash.com/@kemalalkan?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Life_jacket_Pinhead_icon.svg/500px-Life_jacket_Pinhead_icon.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1543076447-215ad9ba6923?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8amFja2V0fGVufDF8MHx8fDE3OTQxMjAxOTl8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Wear a jacket when it is cold.",
     "exampleZh": "天氣凍就要着外套。"
   },
@@ -6795,19 +6567,15 @@
     "zh": "圖書館",
     "pos": "n",
     "theme": "school",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logo_of_the_United_States_Library_of_Congress.svg/500px-Logo_of_the_United_States_Library_of_Congress.svg.png",
-    "imageCredit": "Paula Scher / Pentagram · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1521920592574-49e0b121c964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8bGlicmFyeXxlbnwxfDB8fHwxNzk0MTM1OTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Jonathan Francisca on Unsplash (https://unsplash.com/@jonathan_francisca?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logo_of_the_United_States_Library_of_Congress.svg/500px-Logo_of_the_United_States_Library_of_Congress.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/National_Library_Symbol.svg/500px-National_Library_Symbol.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Open_Library_Badge_2025.svg/500px-Open_Library_Badge_2025.svg.png"
+      "https://images.unsplash.com/photo-1521920592574-49e0b121c964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8bGlicmFyeXxlbnwxfDB8fHwxNzk0MTM1OTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Paula Scher / Pentagram · Public domain",
-      "American Library Association · Public domain",
-      "Anton Katzer, MOR Design · CC0"
+      "Photo by Jonathan Francisca on Unsplash (https://unsplash.com/@jonathan_francisca?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logo_of_the_United_States_Library_of_Congress.svg/500px-Logo_of_the_United_States_Library_of_Congress.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1521920592574-49e0b121c964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8bGlicmFyeXxlbnwxfDB8fHwxNzk0MTM1OTMxfDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Please keep quiet in the library.",
     "exampleZh": "喺圖書館請保持安靜。"
   },
@@ -6839,19 +6607,15 @@
     "zh": "聽",
     "pos": "v",
     "theme": "verbs",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Breakthrough_Listen_Logo.svg/500px-Breakthrough_Listen_Logo.svg.png",
-    "imageCredit": "Breakthrough Initiatives · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1604313477128-4e121c72c5ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8bGlzdGVufGVufDF8MHx8fDE3OTQxMzYwODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Brett Jordan on Unsplash (https://unsplash.com/@brett_jordan?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Breakthrough_Listen_Logo.svg/500px-Breakthrough_Listen_Logo.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Qr_code_Listen_to_Wikipedia.svg/500px-Qr_code_Listen_to_Wikipedia.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Assistive-listening-system_%28CoreUI_Icons_v1.0.0%29.svg/500px-Assistive-listening-system_%28CoreUI_Icons_v1.0.0%29.svg.png"
+      "https://images.unsplash.com/photo-1604313477128-4e121c72c5ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8bGlzdGVufGVufDF8MHx8fDE3OTQxMzYwODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Breakthrough Initiatives · Public domain",
-      "Lionel Scheepmans · CC BY-SA 4.0",
-      "CoreUI · CC BY 4.0"
+      "Photo by Brett Jordan on Unsplash (https://unsplash.com/@brett_jordan?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Breakthrough_Listen_Logo.svg/500px-Breakthrough_Listen_Logo.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1604313477128-4e121c72c5ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8bGlzdGVufGVufDF8MHx8fDE3OTQxMzYwODR8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Listen carefully to the instructions.",
     "exampleZh": "請小心聽指示。"
   },
@@ -7059,19 +6823,15 @@
     "zh": "街市",
     "pos": "n",
     "theme": "places",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Android_Market_logo_%282007%29.svg/500px-Android_Market_logo_%282007%29.svg.png",
-    "imageCredit": "Google · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8bWFya2V0fGVufDF8MHx8fDE3OTQxMzY3NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Jacopo Maiarelli on Unsplash (https://unsplash.com/@ja_ma?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Android_Market_logo_%282007%29.svg/500px-Android_Market_logo_%282007%29.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Competitive_market_diagram.svg/500px-Competitive_market_diagram.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Market_Basket_logo_and_slogan.svg/500px-Market_Basket_logo_and_slogan.svg.png"
+      "https://images.unsplash.com/photo-1488459716781-31db52582fe9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8bWFya2V0fGVufDF8MHx8fDE3OTQxMzY3NzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Google · Public domain",
-      "Mgmwki · CC BY-SA 4.0",
-      "DeMoulas Super Markets, Inc. (d/b/a Market Basket) · Public domain"
+      "Photo by Jacopo Maiarelli on Unsplash (https://unsplash.com/@ja_ma?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Android_Market_logo_%282007%29.svg/500px-Android_Market_logo_%282007%29.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8bWFya2V0fGVufDF8MHx8fDE3OTQxMzY3NzF8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "My mom buys food at the market.",
     "exampleZh": "我媽媽在街市買食物。"
   },
@@ -7345,19 +7105,15 @@
     "zh": "鏡子",
     "pos": "n",
     "theme": "misc",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cat_and_lion_in_mirror_illustration.svg/500px-Cat_and_lion_in_mirror_illustration.svg.png",
-    "imageCredit": "File:Grandiose delusions cat lion.pdf: Collin Knopp-Schwyn\nderivative work: Arlo · CC BY 3.0",
+    "imageUrl": "https://images.unsplash.com/photo-1515463626042-123ab67dcaa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8bWlycm9yfGVufDF8MHx8fDE3OTQxMzcwNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Vince Fleming on Unsplash (https://unsplash.com/@vincefleming?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cat_and_lion_in_mirror_illustration.svg/500px-Cat_and_lion_in_mirror_illustration.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Coordinate-system-in-mirror.svg/500px-Coordinate-system-in-mirror.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Daily_Mirror_masthead.svg/500px-Daily_Mirror_masthead.svg.png"
+      "https://images.unsplash.com/photo-1515463626042-123ab67dcaa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8bWlycm9yfGVufDF8MHx8fDE3OTQxMzcwNzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "File:Grandiose delusions cat lion.pdf: Collin Knopp-Schwyn\nderivative work: Arlo · CC BY 3.0",
-      "MikeRun · CC BY-SA 4.0",
-      "Reach plc\n · Public domain"
+      "Photo by Vince Fleming on Unsplash (https://unsplash.com/@vincefleming?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cat_and_lion_in_mirror_illustration.svg/500px-Cat_and_lion_in_mirror_illustration.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1515463626042-123ab67dcaa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8bWlycm9yfGVufDF8MHx8fDE3OTQxMzcwNzd8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "She checked her hair in the mirror.",
     "exampleZh": "佢喺鏡子前睇下頭髮。"
   },
@@ -7499,19 +7255,15 @@
     "zh": "山",
     "pos": "n",
     "theme": "nature",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Conifer_tree_and_flower_and_snowcapped_mountain_Pinhead_icon.svg/500px-Conifer_tree_and_flower_and_snowcapped_mountain_Pinhead_icon.svg.png",
-    "imageCredit": "Maki contributors · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8bW91bnRhaW58ZW58MXwwfHx8MTc5NDEzNzg1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Kalen Emsley on Unsplash (https://unsplash.com/@kalenemsley?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Conifer_tree_and_flower_and_snowcapped_mountain_Pinhead_icon.svg/500px-Conifer_tree_and_flower_and_snowcapped_mountain_Pinhead_icon.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Day_%26_Night_Mountain_Scene.svg/500px-Day_%26_Night_Mountain_Scene.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Maki7-mountain-white.svg/500px-Maki7-mountain-white.svg.png"
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8bW91bnRhaW58ZW58MXwwfHx8MTc5NDEzNzg1OHww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Maki contributors · CC0",
-      "TJFREE · CC BY-SA 4.0",
-      "Mapbox, https://github.com/mapbox/maki/graphs/contributors · CC0"
+      "Photo by Kalen Emsley on Unsplash (https://unsplash.com/@kalenemsley?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Conifer_tree_and_flower_and_snowcapped_mountain_Pinhead_icon.svg/500px-Conifer_tree_and_flower_and_snowcapped_mountain_Pinhead_icon.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8bW91bnRhaW58ZW58MXwwfHx8MTc5NDEzNzg1OHww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "We climbed a steep mountain.",
     "exampleZh": "我哋爬咗一座陡峭嘅山。"
   },
@@ -7543,19 +7295,15 @@
     "zh": "博物館",
     "pos": "n",
     "theme": "places",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Brooklyn_Museum_logo.svg/500px-Brooklyn_Museum_logo.svg.png",
-    "imageCredit": "Unknown authorUnknown author · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1491156855053-9cdff72c7f85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8bXVzZXVtfGVufDF8MHx8fDE3OTQxMzgzMTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Claudio Testa on Unsplash (https://unsplash.com/@claudiotesta?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Brooklyn_Museum_logo.svg/500px-Brooklyn_Museum_logo.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pushkin_Museum_logo.svg/500px-Pushkin_Museum_logo.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Victoria_and_Albert_Museum_Logo.svg/500px-Victoria_and_Albert_Museum_Logo.svg.png"
+      "https://images.unsplash.com/photo-1491156855053-9cdff72c7f85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8bXVzZXVtfGVufDF8MHx8fDE3OTQxMzgzMTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Unknown authorUnknown author · Public domain",
-      "Unknown unknownUnknown unknown · Public domain",
-      "Alan Fletcher · Public domain"
+      "Photo by Claudio Testa on Unsplash (https://unsplash.com/@claudiotesta?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Brooklyn_Museum_logo.svg/500px-Brooklyn_Museum_logo.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1491156855053-9cdff72c7f85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8bXVzZXVtfGVufDF8MHx8fDE3OTQxMzgzMTB8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "We visit the museum on Friday.",
     "exampleZh": "我們在星期五參觀博物館。"
   },
@@ -7877,19 +7625,15 @@
     "zh": "筆記簿",
     "pos": "n",
     "theme": "school",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Notebook_%28NIH_BioArt_394%29.svg/500px-Notebook_%28NIH_BioArt_394%29.svg.png",
-    "imageCredit": "Courtesy of NIAID\n\nRyan Kissinger · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1612367980327-7454a7276aa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8M3x8bm90ZWJvb2t8ZW58MXwwfHx8MTc5NDEzOTA3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Kelly Sikkema on Unsplash (https://unsplash.com/@kellysikkema?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Notebook_%28NIH_BioArt_394%29.svg/500px-Notebook_%28NIH_BioArt_394%29.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Clipart-bench.svg/500px-Clipart-bench.svg.png"
+      "https://images.unsplash.com/photo-1612367980327-7454a7276aa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8M3x8bm90ZWJvb2t8ZW58MXwwfHx8MTc5NDEzOTA3NXww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Courtesy of NIAID\n\nRyan Kissinger · Public domain",
-      "Nicu Buculei · CC0",
-      "MScharwies · CC BY-SA 4.0"
+      "Photo by Kelly Sikkema on Unsplash (https://unsplash.com/@kellysikkema?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Notebook_%28NIH_BioArt_394%29.svg/500px-Notebook_%28NIH_BioArt_394%29.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1612367980327-7454a7276aa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8M3x8bm90ZWJvb2t8ZW58MXwwfHx8MTc5NDEzOTA3NXww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Write new words in your notebook.",
     "exampleZh": "將生字寫喺筆記簿。"
   },
@@ -7899,23 +7643,17 @@
     "zh": "數目",
     "pos": "n",
     "theme": "misc",
-    "imageUrl": "https://api.openverse.org/v1/images/9bf5a42b-0c63-453d-b87d-c4cdd0fc8855/thumb/",
-    "imageCredit": "Openverse · cc0",
+    "imageUrl": "https://images.unsplash.com/photo-1568828668638-b1b4014d91a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8bnVtYmVyfGVufDF8MHx8fDE3OTQxMzk1OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Susan Holt Simpson on Unsplash (https://unsplash.com/@shs521?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://api.openverse.org/v1/images/9bf5a42b-0c63-453d-b87d-c4cdd0fc8855/thumb/",
-      "https://images.rawpixel.com/image_png_1300/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL2pvYjk3MS1lbGVtZW50LTA5Ni1wLnBuZw.png",
-      "https://images.rawpixel.com/image_png_1300/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEyL2pvYjk1OS1lbGVtZW50LWItMDA0Ni1wXzEucG5n.png",
-      "https://images.rawpixel.com/image_png_1300/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA4L2pvYjk1MS01NC5wbmc.png"
+      "https://images.unsplash.com/photo-1568828668638-b1b4014d91a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8bnVtYmVyfGVufDF8MHx8fDE3OTQxMzk1OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "example": "What is your phone number?",
     "exampleZh": "你電話號碼係幾多？",
     "imageCredits": [
-      "Openverse · cc0",
-      "Openverse · cc0",
-      "Openverse · cc0",
-      "Openverse · cc0"
+      "Photo by Susan Holt Simpson on Unsplash (https://unsplash.com/@shs521?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://api.openverse.org/v1/images/9bf5a42b-0c63-453d-b87d-c4cdd0fc8855/thumb/"
+    "thumbUrl": "https://images.unsplash.com/photo-1568828668638-b1b4014d91a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8bnVtYmVyfGVufDF8MHx8fDE3OTQxMzk1OTd8MA&ixlib=rb-4.1.0&q=80&w=400"
   },
   {
     "id": "nutrition",
@@ -8075,19 +7813,15 @@
     "zh": "橙色",
     "pos": "n",
     "theme": "colours",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Orange_Retro_Cartoon.svg/500px-Orange_Retro_Cartoon.svg.png",
-    "imageCredit": "Michael Kolesidis · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1579969653892-c3cc5f24535a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8b3JhbmdlJTIwZnJ1aXQlMjBjaXRydXN8ZW58MXwwfHx8MTc5NDE0MTU0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by amjd rdwan on Unsplash (https://unsplash.com/@amjd159?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Orange_Retro_Cartoon.svg/500px-Orange_Retro_Cartoon.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Orange_Retro_Cartoon_with_Background.svg/500px-Orange_Retro_Cartoon_with_Background.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Color_icon_orange.svg/500px-Color_icon_orange.svg.png"
+      "https://images.unsplash.com/photo-1579969653892-c3cc5f24535a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8b3JhbmdlJTIwZnJ1aXQlMjBjaXRydXN8ZW58MXwwfHx8MTc5NDE0MTU0OHww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Michael Kolesidis · CC BY-SA 4.0",
-      "Badseed · Public domain",
-      "Badseed · Public domain"
+      "Photo by amjd rdwan on Unsplash (https://unsplash.com/@amjd159?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Orange_Retro_Cartoon.svg/500px-Orange_Retro_Cartoon.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1579969653892-c3cc5f24535a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8b3JhbmdlJTIwZnJ1aXQlMjBjaXRydXN8ZW58MXwwfHx8MTc5NDE0MTU0OHww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "I peeled an orange for dessert.",
     "exampleZh": "我剝咗個橙當甜品。"
   },
@@ -8379,19 +8113,15 @@
     "zh": "鸚鵡",
     "pos": "n",
     "theme": "animals",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Green_parrot_on_branch_with_blue_head.svg/500px-Green_parrot_on_branch_with_blue_head.svg.png",
-    "imageCredit": "CC BY-SA 2.5",
+    "imageUrl": "https://images.unsplash.com/photo-1604826010917-65cf53d6249b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8cGFycm90fGVufDF8MHx8fDE3OTQxNDMwNjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Ilona Frey on Unsplash (https://unsplash.com/@couleuroriginal?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Green_parrot_on_branch_with_blue_head.svg/500px-Green_parrot_on_branch_with_blue_head.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Green_parrot_on_branch_with_yellow_head.svg/500px-Green_parrot_on_branch_with_yellow_head.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Parrot-logo.svg/500px-Parrot-logo.svg.png"
+      "https://images.unsplash.com/photo-1604826010917-65cf53d6249b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8cGFycm90fGVufDF8MHx8fDE3OTQxNDMwNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "CC BY-SA 2.5",
-      "Pduive23 · CC0",
-      "Pduive23 · CC0"
+      "Photo by Ilona Frey on Unsplash (https://unsplash.com/@couleuroriginal?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Green_parrot_on_branch_with_blue_head.svg/500px-Green_parrot_on_branch_with_blue_head.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1604826010917-65cf53d6249b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8cGFycm90fGVufDF8MHx8fDE3OTQxNDMwNjB8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "The parrot copied my words.",
     "exampleZh": "鸚鵡學我講嘢。"
   },
@@ -8647,19 +8377,15 @@
     "zh": "企鵝",
     "pos": "n",
     "theme": "animals",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Lemmling-Cartoon-penguin-1.svg/500px-Lemmling-Cartoon-penguin-1.svg.png",
-    "imageCredit": "lemmling · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1517783999520-f068d7431a60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8cGVuZ3VpbnxlbnwxfDB8fHwxNzk0MTQ4NTM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Ian Parker on Unsplash (https://unsplash.com/@evanescentlight?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Lemmling-Cartoon-penguin-1.svg/500px-Lemmling-Cartoon-penguin-1.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Penguin_icon_by_Fabuio.svg/500px-Penguin_icon_by_Fabuio.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/AGM-119_Penguin_profile_view_drawing.svg/500px-AGM-119_Penguin_profile_view_drawing.svg.png"
+      "https://images.unsplash.com/photo-1517783999520-f068d7431a60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8cGVuZ3VpbnxlbnwxfDB8fHwxNzk0MTQ4NTM5fDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "lemmling · CC0",
-      "Fabuio · CC0",
-      "Allocer · CC BY-SA 3.0"
+      "Photo by Ian Parker on Unsplash (https://unsplash.com/@evanescentlight?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Lemmling-Cartoon-penguin-1.svg/500px-Lemmling-Cartoon-penguin-1.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1517783999520-f068d7431a60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8cGVuZ3VpbnxlbnwxfDB8fHwxNzk0MTQ4NTM5fDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "A penguin slides on the ice.",
     "exampleZh": "企鵝喺冰上面滑。"
   },
@@ -8869,19 +8595,15 @@
     "zh": "圖畫",
     "pos": "n",
     "theme": "misc",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Motion_Picture_Association_logo_2019.svg/500px-Motion_Picture_Association_logo_2019.svg.png",
-    "imageCredit": "Motion Picture Association · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8cGljdHVyZXxlbnwxfDB8fHwxNzk0MTUwMzUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Greg Rakozy on Unsplash (https://unsplash.com/@grakozy?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Motion_Picture_Association_logo_2019.svg/500px-Motion_Picture_Association_logo_2019.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Cartoon_Jackie_Chan_drawing_picture_5.jpg/500px-Cartoon_Jackie_Chan_drawing_picture_5.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png"
+      "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8cGljdHVyZXxlbnwxfDB8fHwxNzk0MTUwMzUyfDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Motion Picture Association · Public domain",
-      "Bharmitha Selvaraj · CC0",
-      "Nicu Buculei · CC0"
+      "Photo by Greg Rakozy on Unsplash (https://unsplash.com/@grakozy?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Motion_Picture_Association_logo_2019.svg/500px-Motion_Picture_Association_logo_2019.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8cGljdHVyZXxlbnwxfDB8fHwxNzk0MTUwMzUyfDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Hang the picture on the wall.",
     "exampleZh": "將圖畫掛喺牆上。"
   },
@@ -8891,19 +8613,15 @@
     "zh": "枕頭",
     "pos": "n",
     "theme": "home",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pillow_-_Delapouite_-_game-icons.svg/500px-Pillow_-_Delapouite_-_game-icons.svg.png",
-    "imageCredit": "Delapouite · CC BY 3.0",
+    "imageUrl": "https://images.unsplash.com/photo-1617325247661-675ab4b64ae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8cGlsbG93fGVufDF8MHx8fDE3OTQxNTIzODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Deconovo on Unsplash (https://unsplash.com/@deconovo?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pillow_-_Delapouite_-_game-icons.svg/500px-Pillow_-_Delapouite_-_game-icons.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Pillow_-_Delapouite_-_white_-_game-icons.svg/500px-Pillow_-_Delapouite_-_white_-_game-icons.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/My_Pillow_logo.svg/500px-My_Pillow_logo.svg.png"
+      "https://images.unsplash.com/photo-1617325247661-675ab4b64ae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8cGlsbG93fGVufDF8MHx8fDE3OTQxNTIzODF8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Delapouite · CC BY 3.0",
-      "Original: My Pillow Vector:  Pantarch · Public domain",
-      "Original: My Pillow Vector:  Pantarch · Public domain"
+      "Photo by Deconovo on Unsplash (https://unsplash.com/@deconovo?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pillow_-_Delapouite_-_game-icons.svg/500px-Pillow_-_Delapouite_-_game-icons.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1617325247661-675ab4b64ae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8cGlsbG93fGVufDF8MHx8fDE3OTQxNTIzODF8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "I put my head on a soft pillow.",
     "exampleZh": "我將頭靠喺軟枕頭。"
   },
@@ -9263,19 +8981,15 @@
     "zh": "現在",
     "pos": "n",
     "theme": "time",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kotlin_icon_%282021-present%29.svg/500px-Kotlin_icon_%282021-present%29.svg.png",
-    "imageCredit": "JetBrains · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1671150590216-f138600130ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8cHJlc2VudCUyMGdpZnQlMjB3cmFwcGVkfGVufDF8MHx8fDE3OTQxNTUzMTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Anastasiia Chepinska on Unsplash (https://unsplash.com/@anastasiiachepinska?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kotlin_icon_%282021-present%29.svg/500px-Kotlin_icon_%282021-present%29.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Toicon-icon-hatch-present.svg/500px-Toicon-icon-hatch-present.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Noovle_logo_%282020-present%29.svg/500px-Noovle_logo_%282020-present%29.svg.png"
+      "https://images.unsplash.com/photo-1671150590216-f138600130ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8cHJlc2VudCUyMGdpZnQlMjB3cmFwcGVkfGVufDF8MHx8fDE3OTQxNTUzMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "JetBrains · Public domain",
-      "Carol Liao/toicon.com · CC BY 4.0",
-      "Noovle S.r.l. · Public domain"
+      "Photo by Anastasiia Chepinska on Unsplash (https://unsplash.com/@anastasiiachepinska?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kotlin_icon_%282021-present%29.svg/500px-Kotlin_icon_%282021-present%29.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1671150590216-f138600130ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8cHJlc2VudCUyMGdpZnQlMjB3cmFwcGVkfGVufDF8MHx8fDE3OTQxNTUzMTN8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Focus on the present moment.",
     "exampleZh": "專注而家呢一刻。"
   },
@@ -9329,19 +9043,15 @@
     "zh": "王子",
     "pos": "n",
     "theme": "misc",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Lesser_CoA_of_a_Prince_of_Italy_%28Savoy-Aosta%29.svg/500px-Lesser_CoA_of_a_Prince_of_Italy_%28Savoy-Aosta%29.svg.png",
-    "imageCredit": "Flopao · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1589848386553-b2df542e8d59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8cHJpbmNlfGVufDF8MHx8fDE3OTQxNTU1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Javier Quiroga on Unsplash (https://unsplash.com/@jcquiroga1982?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Lesser_CoA_of_a_Prince_of_Italy_%28Savoy-Aosta%29.svg/500px-Lesser_CoA_of_a_Prince_of_Italy_%28Savoy-Aosta%29.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Standard_of_the_Prince_of_Liechtenstein.svg/500px-Standard_of_the_Prince_of_Liechtenstein.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Princely_Hat.svg/500px-Princely_Hat.svg.png"
+      "https://images.unsplash.com/photo-1589848386553-b2df542e8d59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8cHJpbmNlfGVufDF8MHx8fDE3OTQxNTU1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Flopao · CC BY-SA 4.0",
-      "Thommy · Public domain",
-      "Tom Lemmens · CC BY-SA 3.0"
+      "Photo by Javier Quiroga on Unsplash (https://unsplash.com/@jcquiroga1982?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Lesser_CoA_of_a_Prince_of_Italy_%28Savoy-Aosta%29.svg/500px-Lesser_CoA_of_a_Prince_of_Italy_%28Savoy-Aosta%29.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1589848386553-b2df542e8d59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8cHJpbmNlfGVufDF8MHx8fDE3OTQxNTU1MzN8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "The prince lived in a castle.",
     "exampleZh": "王子住喺城堡。"
   },
@@ -9351,19 +9061,15 @@
     "zh": "公主",
     "pos": "n",
     "theme": "misc",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Arms_of_Catherine%2C_Princess_of_Wales.svg/500px-Arms_of_Catherine%2C_Princess_of_Wales.svg.png",
-    "imageCredit": "Sodacan · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1474169482634-9d0381a70510?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8cHJpbmNlc3N8ZW58MXwwfHx8MTc5NDE1NTY1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Ashton Mullins on Unsplash (https://unsplash.com/@ashtonmullins?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Arms_of_Catherine%2C_Princess_of_Wales.svg/500px-Arms_of_Catherine%2C_Princess_of_Wales.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coat_of_Arms_of_Anne%2C_Princess_Royal_%28Chilean_Order_of_Merit%29.svg/500px-Coat_of_Arms_of_Anne%2C_Princess_Royal_%28Chilean_Order_of_Merit%29.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Coat_of_arms_of_a_Princess_of_Belgium.svg/500px-Coat_of_arms_of_a_Princess_of_Belgium.svg.png"
+      "https://images.unsplash.com/photo-1474169482634-9d0381a70510?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8cHJpbmNlc3N8ZW58MXwwfHx8MTc5NDE1NTY1MXww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Sodacan · CC BY-SA 4.0",
-      "James2813, almost all elements by Sodacan or Heralder. · CC BY-SA 4.0",
-      "James2813, almost all elements by Sodacan or Heralder. · CC BY-SA 4.0"
+      "Photo by Ashton Mullins on Unsplash (https://unsplash.com/@ashtonmullins?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Arms_of_Catherine%2C_Princess_of_Wales.svg/500px-Arms_of_Catherine%2C_Princess_of_Wales.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1474169482634-9d0381a70510?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8cHJpbmNlc3N8ZW58MXwwfHx8MTc5NDE1NTY1MXww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "The princess helped the villagers.",
     "exampleZh": "公主幫助村民。"
   },
@@ -9631,19 +9337,15 @@
     "zh": "紫色",
     "pos": "n",
     "theme": "colours",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Avris_Logo_%28dark_purple%29.svg/500px-Avris_Logo_%28dark_purple%29.svg.png",
-    "imageCredit": "Andrea Vos · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1583339522870-0d9f28cef33f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8cHVycGxlfGVufDF8MHx8fDE3OTQxNTc4ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Daniele Levis Pelusi on Unsplash (https://unsplash.com/@yogidan2012?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Avris_Logo_%28dark_purple%29.svg/500px-Avris_Logo_%28dark_purple%29.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Codex_icon_move_color-purple.svg/500px-Codex_icon_move_color-purple.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Color_icon_purple_v2.svg/500px-Color_icon_purple_v2.svg.png"
+      "https://images.unsplash.com/photo-1583339522870-0d9f28cef33f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8cHVycGxlfGVufDF8MHx8fDE3OTQxNTc4ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Andrea Vos · Public domain",
-      "Original: Wikimedia Design &amp; OOUI team and other contributors; recoloring: A · CC BY 4.0",
-      "Mizunoryu, Badseed, Jacobolus · Public domain"
+      "Photo by Daniele Levis Pelusi on Unsplash (https://unsplash.com/@yogidan2012?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Avris_Logo_%28dark_purple%29.svg/500px-Avris_Logo_%28dark_purple%29.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1583339522870-0d9f28cef33f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8cHVycGxlfGVufDF8MHx8fDE3OTQxNTc4ODJ8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Grapes can be purple or green.",
     "exampleZh": "葡萄可以係紫色或者綠色。"
   },
@@ -9675,19 +9377,15 @@
     "zh": "拼圖",
     "pos": "n",
     "theme": "misc",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Playable_Fox_Chook_Corn_puzzle.svg/500px-Playable_Fox_Chook_Corn_puzzle.svg.png",
-    "imageCredit": "Mardeg · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1494059980473-813e73ee784b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8cHV6emxlfGVufDF8MHx8fDE3OTQxNTgzNTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Hans-Peter Gauster on Unsplash (https://unsplash.com/@sloppyperfectionist?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Playable_Fox_Chook_Corn_puzzle.svg/500px-Playable_Fox_Chook_Corn_puzzle.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Puzzle_ribbon.svg/500px-Puzzle_ribbon.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Wikipedia%27s_puzzle_piece_round_icon.svg/500px-Wikipedia%27s_puzzle_piece_round_icon.svg.png"
+      "https://images.unsplash.com/photo-1494059980473-813e73ee784b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8cHV6emxlfGVufDF8MHx8fDE3OTQxNTgzNTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Mardeg · CC BY-SA 4.0",
-      "J_Alves · CC0",
-      "Manjiro91 · CC0"
+      "Photo by Hans-Peter Gauster on Unsplash (https://unsplash.com/@sloppyperfectionist?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Playable_Fox_Chook_Corn_puzzle.svg/500px-Playable_Fox_Chook_Corn_puzzle.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1494059980473-813e73ee784b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8cHV6emxlfGVufDF8MHx8fDE3OTQxNTgzNTN8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "We finished the jigsaw puzzle together.",
     "exampleZh": "我哋一齊完成拼圖。"
   },
@@ -9719,19 +9417,15 @@
     "zh": "問題",
     "pos": "n",
     "theme": "school",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ben_question_symbol.svg/500px-Ben_question_symbol.svg.png",
-    "imageCredit": "No machine-readable author provided. BenduKiwi assumed (based on copyright claim · CC BY-SA 3.0",
+    "imageUrl": "https://images.unsplash.com/photo-1484069560501-87d72b0c3669?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8cXVlc3Rpb258ZW58MXwwfHx8MTc5NDE1ODUwNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Emily Morter on Unsplash (https://unsplash.com/@emilymorter?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ben_question_symbol.svg/500px-Ben_question_symbol.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Blue_Question_Circle.svg/500px-Blue_Question_Circle.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Did_You_Know_question_mark.svg/500px-Did_You_Know_question_mark.svg.png"
+      "https://images.unsplash.com/photo-1484069560501-87d72b0c3669?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8cXVlc3Rpb258ZW58MXwwfHx8MTc5NDE1ODUwNXww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "No machine-readable author provided. BenduKiwi assumed (based on copyright claim · CC BY-SA 3.0",
-      "Алексей Гоманков · CC BY-SA 4.0",
-      "Newbzy · Public domain"
+      "Photo by Emily Morter on Unsplash (https://unsplash.com/@emilymorter?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ben_question_symbol.svg/500px-Ben_question_symbol.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1484069560501-87d72b0c3669?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8cXVlc3Rpb258ZW58MXwwfHx8MTc5NDE1ODUwNXww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Raise your hand to ask a question.",
     "exampleZh": "想問問題就舉手。"
   },
@@ -9763,19 +9457,15 @@
     "zh": "彩虹",
     "pos": "n",
     "theme": "weather",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rainbow_7_color_Tritanopia.svg/500px-Rainbow_7_color_Tritanopia.svg.png",
-    "imageCredit": "Lunac · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1550542442-d5c354329585?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8cmFpbmJvd3xlbnwxfDB8fHwxNzk0MTU5NTM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Look Up Look Down Photography on Unsplash (https://unsplash.com/@greg_nunes?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rainbow_7_color_Tritanopia.svg/500px-Rainbow_7_color_Tritanopia.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rainbow_Caticorn.svg/500px-Rainbow_Caticorn.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rainbow_Circle.svg/500px-Rainbow_Circle.svg.png"
+      "https://images.unsplash.com/photo-1550542442-d5c354329585?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8cmFpbmJvd3xlbnwxfDB8fHwxNzk0MTU5NTM5fDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Lunac · CC BY-SA 4.0",
-      "Schade · CC0",
-      "Magurale · CC0"
+      "Photo by Look Up Look Down Photography on Unsplash (https://unsplash.com/@greg_nunes?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rainbow_7_color_Tritanopia.svg/500px-Rainbow_7_color_Tritanopia.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1550542442-d5c354329585?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Nnx8cmFpbmJvd3xlbnwxfDB8fHwxNzk0MTU5NTM5fDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "A bright rainbow appeared after the rain.",
     "exampleZh": "雨後出現明亮彩虹。"
   },
@@ -10429,19 +10119,15 @@
     "zh": "機械人",
     "pos": "n",
     "theme": "misc",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Cartoon_Robot.svg/500px-Cartoon_Robot.svg.png",
-    "imageCredit": "Sirrob01 · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8cm9ib3R8ZW58MXwwfHx8MTc5NDE2NjcwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Alex Knight on Unsplash (https://unsplash.com/@agk42?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Cartoon_Robot.svg/500px-Cartoon_Robot.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kawaii_robot_power_clipart.svg/500px-Kawaii_robot_power_clipart.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kawaii_robot_power_clipart_cropped.svg/500px-Kawaii_robot_power_clipart_cropped.svg.png"
+      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8cm9ib3R8ZW58MXwwfHx8MTc5NDE2NjcwMXww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Sirrob01 · CC0",
-      "Mvolz · CC0",
-      "derivative work by Grufo / * File:Kawaii robot power clipart.svg: Mvolz · CC0"
+      "Photo by Alex Knight on Unsplash (https://unsplash.com/@agk42?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Cartoon_Robot.svg/500px-Cartoon_Robot.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8cm9ib3R8ZW58MXwwfHx8MTc5NDE2NjcwMXww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "The robot cleaned the floor.",
     "exampleZh": "機械人清潔地板。"
   },
@@ -10537,19 +10223,15 @@
     "zh": "三文治",
     "pos": "n",
     "theme": "food",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Shark_Sandwich_-_The_Noun_Project.svg/500px-Shark_Sandwich_-_The_Noun_Project.svg.png",
-    "imageCredit": "Wolff · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1481070414801-51fd732d7184?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8c2FuZHdpY2h8ZW58MXwwfHx8MTc5NDE3MDI0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Eaters Collective on Unsplash (https://unsplash.com/@eaterscollective?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Shark_Sandwich_-_The_Noun_Project.svg/500px-Shark_Sandwich_-_The_Noun_Project.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sandwich_of_series.svg/500px-Sandwich_of_series.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/SandwichPaneel.svg/500px-SandwichPaneel.svg.png"
+      "https://images.unsplash.com/photo-1481070414801-51fd732d7184?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8c2FuZHdpY2h8ZW58MXwwfHx8MTc5NDE3MDI0MXww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Wolff · CC0",
-      "Michael Brewer · CC BY 2.5",
-      "sarang · Public domain"
+      "Photo by Eaters Collective on Unsplash (https://unsplash.com/@eaterscollective?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Shark_Sandwich_-_The_Noun_Project.svg/500px-Shark_Sandwich_-_The_Noun_Project.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1481070414801-51fd732d7184?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8c2FuZHdpY2h8ZW58MXwwfHx8MTc5NDE3MDI0MXww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "I packed a cheese sandwich for lunch.",
     "exampleZh": "我午餐帶咗芝士三文治。"
   },
@@ -10691,19 +10373,15 @@
     "zh": "剪刀",
     "pos": "n",
     "theme": "school",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
-    "imageCredit": "Nicu Buculei · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1503792501406-2c40da09e1e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8c2Npc3NvcnN8ZW58MXwwfHx8MTc5NDE3MzY2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Matt Artz on Unsplash (https://unsplash.com/@mattartz?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Clipart-bench.svg/500px-Clipart-bench.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Illustration_free-diver_swimming_in_water.svg/500px-Illustration_free-diver_swimming_in_water.svg.png"
+      "https://images.unsplash.com/photo-1503792501406-2c40da09e1e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8c2Npc3NvcnN8ZW58MXwwfHx8MTc5NDE3MzY2M3ww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Nicu Buculei · CC0",
-      "MScharwies · CC BY-SA 4.0",
-      "Goran_tek-en · CC BY-SA 4.0"
+      "Photo by Matt Artz on Unsplash (https://unsplash.com/@mattartz?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1503792501406-2c40da09e1e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8c2Npc3NvcnN8ZW58MXwwfHx8MTc5NDE3MzY2M3ww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Use scissors to cut the paper carefully.",
     "exampleZh": "小心用剪刀剪紙。"
   },
@@ -11481,19 +11159,15 @@
     "zh": "春天",
     "pos": "n",
     "theme": "weather",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CEE_Spring_2022.svg/500px-CEE_Spring_2022.svg.png",
-    "imageCredit": "Aktron · CC BY 3.0",
+    "imageUrl": "https://images.unsplash.com/photo-1489537235181-fc05daed5805?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8c3ByaW5nJTIwc2Vhc29uJTIwbmF0dXJlJTIwYmxvc3NvbXN8ZW58MXwwfHx8MTc5NDE4NTcxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Anthony DELANOIX on Unsplash (https://unsplash.com/@anthonydelanoix?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CEE_Spring_2022.svg/500px-CEE_Spring_2022.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/CEE_Spring_2024.svg/500px-CEE_Spring_2024.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Field_Book_of_the_Stars-025-Constellations_of_Spring.svg/500px-Field_Book_of_the_Stars-025-Constellations_of_Spring.svg.png"
+      "https://images.unsplash.com/photo-1489537235181-fc05daed5805?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8c3ByaW5nJTIwc2Vhc29uJTIwbmF0dXJlJTIwYmxvc3NvbXN8ZW58MXwwfHx8MTc5NDE4NTcxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Aktron · CC BY 3.0",
-      "Goran tek-en, following request by and knowledge from RaboKarbakian · CC BY-SA 4.0",
-      "Goran tek-en, following request by and knowledge from RaboKarbakian · CC BY-SA 4.0"
+      "Photo by Anthony DELANOIX on Unsplash (https://unsplash.com/@anthonydelanoix?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CEE_Spring_2022.svg/500px-CEE_Spring_2022.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1489537235181-fc05daed5805?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8c3ByaW5nJTIwc2Vhc29uJTIwbmF0dXJlJTIwYmxvc3NvbXN8ZW58MXwwfHx8MTc5NDE4NTcxN3ww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Cherry blossoms bloom in spring.",
     "exampleZh": "櫻花喺春天開。"
   },
@@ -11591,19 +11265,15 @@
     "zh": "車站",
     "pos": "n",
     "theme": "transport",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Railroad_station_%28American_Type_Founders_No._2060E%29.svg/500px-Railroad_station_%28American_Type_Founders_No._2060E%29.svg.png",
-    "imageCredit": "AnonymousUnknown author · Public domain",
+    "imageUrl": "https://images.unsplash.com/uploads/1413387158190559d80f7/6108b580?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8c3RhdGlvbnxlbnwxfDB8fHwxNzk0MTg4MDczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Charles Forerunner on Unsplash (https://unsplash.com/@charles_forerunner?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Railroad_station_%28American_Type_Founders_No._2060E%29.svg/500px-Railroad_station_%28American_Type_Founders_No._2060E%29.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Space_station_size_comparison.svg/500px-Space_station_size_comparison.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Space_station_size_comparison_ms.svg/500px-Space_station_size_comparison_ms.svg.png"
+      "https://images.unsplash.com/uploads/1413387158190559d80f7/6108b580?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8c3RhdGlvbnxlbnwxfDB8fHwxNzk0MTg4MDczfDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "AnonymousUnknown author · Public domain",
-      "Thomas Shafee · CC BY 4.0",
-      "Thomas Shafee, translated by Hakimi97 · CC BY 4.0"
+      "Photo by Charles Forerunner on Unsplash (https://unsplash.com/@charles_forerunner?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Railroad_station_%28American_Type_Founders_No._2060E%29.svg/500px-Railroad_station_%28American_Type_Founders_No._2060E%29.svg.png",
+    "thumbUrl": "https://images.unsplash.com/uploads/1413387158190559d80f7/6108b580?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8c3RhdGlvbnxlbnwxfDB8fHwxNzk0MTg4MDczfDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "We wait for the train at the station.",
     "exampleZh": "我哋喺車站等火車。"
   },
@@ -11613,19 +11283,15 @@
     "zh": "肚子",
     "pos": "n",
     "theme": "body",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Histology_of_Stomach.svg/500px-Histology_of_Stomach.svg.png",
-    "imageCredit": "Collectivedogs · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1634463278803-f9f71890e67d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8c3RvbWFjaHxlbnwxfDB8fHwxNzk0MTg4MTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Towfiqu barbhuiya on Unsplash (https://unsplash.com/@towfiqu999999?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Histology_of_Stomach.svg/500px-Histology_of_Stomach.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Stomach_Pinhead_icon.svg/500px-Stomach_Pinhead_icon.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Stomach_blood_supply.svg/500px-Stomach_blood_supply.svg.png"
+      "https://images.unsplash.com/photo-1634463278803-f9f71890e67d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8c3RvbWFjaHxlbnwxfDB8fHwxNzk0MTg4MTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Collectivedogs · CC BY-SA 4.0",
-      "Quincy Morgan, Health Icons contributors · CC0",
-      "Mikael Häggström.\nWhen using this image in external works, it may be cited as:\n\n · Public domain"
+      "Photo by Towfiqu barbhuiya on Unsplash (https://unsplash.com/@towfiqu999999?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Histology_of_Stomach.svg/500px-Histology_of_Stomach.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1634463278803-f9f71890e67d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8OHx8c3RvbWFjaHxlbnwxfDB8fHwxNzk0MTg4MTQ5fDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "My stomach feels full after lunch.",
     "exampleZh": "食完午飯我肚子飽飽。"
   },
@@ -11921,19 +11587,15 @@
     "zh": "夏天",
     "pos": "n",
     "theme": "weather",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2008_Summer_Olympics_-_men%27s_basketball.svg/500px-2008_Summer_Olympics_-_men%27s_basketball.svg.png",
-    "imageCredit": "2008_Summer_Olympics_-_men's_basketball.png: Howard the Duck\nderivative work: Pe · CC BY-SA 3.0",
+    "imageUrl": "https://images.unsplash.com/photo-1498747946579-bde604cb8f44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8c3VtbWVyfGVufDF8MHx8fDE3OTQxOTE5Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Raphaël Biscaldi on Unsplash (https://unsplash.com/@les_photos_de_raph?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2008_Summer_Olympics_-_men%27s_basketball.svg/500px-2008_Summer_Olympics_-_men%27s_basketball.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2020_Summer_Olympics_logo.svg/500px-2020_Summer_Olympics_logo.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Summer_Olympics_text_logo.svg/500px-2020_Summer_Olympics_text_logo.svg.png"
+      "https://images.unsplash.com/photo-1498747946579-bde604cb8f44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8c3VtbWVyfGVufDF8MHx8fDE3OTQxOTE5Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "2008_Summer_Olympics_-_men's_basketball.png: Howard the Duck\nderivative work: Pe · CC BY-SA 3.0",
-      "Kenjiro Sano · Public domain",
-      "Asao Tokolo · Public domain"
+      "Photo by Raphaël Biscaldi on Unsplash (https://unsplash.com/@les_photos_de_raph?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2008_Summer_Olympics_-_men%27s_basketball.svg/500px-2008_Summer_Olympics_-_men%27s_basketball.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1498747946579-bde604cb8f44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8c3VtbWVyfGVufDF8MHx8fDE3OTQxOTE5Mjd8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "We go swimming in summer.",
     "exampleZh": "夏天我哋去游水。"
   },
@@ -12097,19 +11759,15 @@
     "zh": "冷衫",
     "pos": "n",
     "theme": "clothes",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Coburg_Tigers_Jumper.svg/500px-Coburg_Tigers_Jumper.svg.png",
-    "imageCredit": "The original uploader was Saebhiar at English Wikipedia. · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8c3dlYXRlcnxlbnwxfDB8fHwxNzk0MTkyMTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Mediamodifier on Unsplash (https://unsplash.com/@mediamodifier?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Coburg_Tigers_Jumper.svg/500px-Coburg_Tigers_Jumper.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Darwin_Buffaloes_Jumper.svg/500px-Darwin_Buffaloes_Jumper.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Jumper_University_mugars.svg/500px-Jumper_University_mugars.svg.png"
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8c3dlYXRlcnxlbnwxfDB8fHwxNzk0MTkyMTU1fDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "The original uploader was Saebhiar at English Wikipedia. · Public domain",
-      "User:Felix Portier · Public domain",
-      "User:Felix Portier · Public domain"
+      "Photo by Mediamodifier on Unsplash (https://unsplash.com/@mediamodifier?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Coburg_Tigers_Jumper.svg/500px-Coburg_Tigers_Jumper.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8c3dlYXRlcnxlbnwxfDB8fHwxNzk0MTkyMTU1fDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Put on a warm sweater in winter.",
     "exampleZh": "冬天着暖冷衫。"
   },
@@ -12429,19 +12087,15 @@
     "zh": "拋",
     "pos": "v",
     "theme": "verbs",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Athletics_%28hammer_throw%29_pictogram.svg/500px-Athletics_%28hammer_throw%29_pictogram.svg.png",
-    "imageCredit": "Citius Altius Fortius · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1738187710829-f0a959e05a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8dGhyb3d8ZW58MXwwfHx8MTc5NDE5NDIzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by John Cardamone on Unsplash (https://unsplash.com/@john_cardamone?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Athletics_%28hammer_throw%29_pictogram.svg/500px-Athletics_%28hammer_throw%29_pictogram.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Discus_Throw_Pictogram.svg/500px-Discus_Throw_Pictogram.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png"
+      "https://images.unsplash.com/photo-1738187710829-f0a959e05a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8dGhyb3d8ZW58MXwwfHx8MTc5NDE5NDIzN3ww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Citius Altius Fortius · CC BY-SA 4.0",
-      "Diegobiavati · CC BY-SA 4.0",
-      "Nicu Buculei · CC0"
+      "Photo by John Cardamone on Unsplash (https://unsplash.com/@john_cardamone?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Athletics_%28hammer_throw%29_pictogram.svg/500px-Athletics_%28hammer_throw%29_pictogram.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1738187710829-f0a959e05a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8dGhyb3d8ZW58MXwwfHx8MTc5NDE5NDIzN3ww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Throw the ball to your partner.",
     "exampleZh": "將波拋俾拍檔。"
   },
@@ -12497,19 +12151,15 @@
     "zh": "門票",
     "pos": "n",
     "theme": "misc",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Arrow_down_from_ticket_in_slot_Pinhead_icon.svg/500px-Arrow_down_from_ticket_in_slot_Pinhead_icon.svg.png",
-    "imageCredit": "GitHub user @ooosssay, Quincy Morgan · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1568667075686-306d743e6dc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8dGlja2V0fGVufDF8MHx8fDE3OTQxOTU0OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Taylor Flowe on Unsplash (https://unsplash.com/@taypaigey?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Arrow_down_from_ticket_in_slot_Pinhead_icon.svg/500px-Arrow_down_from_ticket_in_slot_Pinhead_icon.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Arrow_up_to_ticket_in_slot_Pinhead_icon.svg/500px-Arrow_up_to_ticket_in_slot_Pinhead_icon.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ticket_Pinhead_icon.svg/500px-Ticket_Pinhead_icon.svg.png"
+      "https://images.unsplash.com/photo-1568667075686-306d743e6dc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8dGlja2V0fGVufDF8MHx8fDE3OTQxOTU0OTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "GitHub user @ooosssay, Quincy Morgan · CC0",
-      "Temaki contributors · CC0",
-      "Temaki contributors · CC0"
+      "Photo by Taylor Flowe on Unsplash (https://unsplash.com/@taypaigey?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Arrow_down_from_ticket_in_slot_Pinhead_icon.svg/500px-Arrow_down_from_ticket_in_slot_Pinhead_icon.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1568667075686-306d743e6dc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8dGlja2V0fGVufDF8MHx8fDE3OTQxOTU0OTN8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Buy a ticket before you enter the museum.",
     "exampleZh": "入博物館前先買門票。"
   },
@@ -12563,19 +12213,15 @@
     "zh": "明天",
     "pos": "n",
     "theme": "time",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Amanda_Lear_-_Tomorrow_%28Logo%29.svg/500px-Amanda_Lear_-_Tomorrow_%28Logo%29.svg.png",
-    "imageCredit": "Lionix · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1519500883398-1f823b076c3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8dG9tb3Jyb3d8ZW58MXwwfHx8MTc5NDE5NjAxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Tim Mossholder on Unsplash (https://unsplash.com/@timmossholder?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Amanda_Lear_-_Tomorrow_%28Logo%29.svg/500px-Amanda_Lear_-_Tomorrow_%28Logo%29.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC%27s_Legends_of_Tomorrow_%28Arrowverse_series%29_logo.svg/500px-DC%27s_Legends_of_Tomorrow_%28Arrowverse_series%29_logo.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/DC%27s_Legends_of_Tomorrow_%28production_logo%29.svg/500px-DC%27s_Legends_of_Tomorrow_%28production_logo%29.svg.png"
+      "https://images.unsplash.com/photo-1519500883398-1f823b076c3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8dG9tb3Jyb3d8ZW58MXwwfHx8MTc5NDE5NjAxNnww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Lionix · CC BY-SA 4.0",
-      "Marc Guggenheim · Public domain",
-      "Marc Guggenheim · Public domain"
+      "Photo by Tim Mossholder on Unsplash (https://unsplash.com/@timmossholder?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Amanda_Lear_-_Tomorrow_%28Logo%29.svg/500px-Amanda_Lear_-_Tomorrow_%28Logo%29.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1519500883398-1f823b076c3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NXx8dG9tb3Jyb3d8ZW58MXwwfHx8MTc5NDE5NjAxNnww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "We have a quiz tomorrow.",
     "exampleZh": "聽日有小測。"
   },
@@ -12761,19 +12407,15 @@
     "zh": "三角形",
     "pos": "n",
     "theme": "describing",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Triangle-angles.svg/500px-Triangle-angles.svg.png",
-    "imageCredit": "MartinThoma · CC BY 3.0",
+    "imageUrl": "https://images.unsplash.com/photo-1627843240167-b1f9d28f732e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8dHJpYW5nbGV8ZW58MXwwfHx8MTc5NDE5NjQ3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Shubham Dhage on Unsplash (https://unsplash.com/@theshubhamdhage?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Triangle-angles.svg/500px-Triangle-angles.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Triangle-exteriour-angle-theorem-2.svg/500px-Triangle-exteriour-angle-theorem-2.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Triangle-notations.svg/500px-Triangle-notations.svg.png"
+      "https://images.unsplash.com/photo-1627843240167-b1f9d28f732e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8dHJpYW5nbGV8ZW58MXwwfHx8MTc5NDE5NjQ3NXww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "MartinThoma · CC BY 3.0",
-      "MartinThoma · CC0",
-      "Ponor · CC BY-SA 4.0"
+      "Photo by Shubham Dhage on Unsplash (https://unsplash.com/@theshubhamdhage?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Triangle-angles.svg/500px-Triangle-angles.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1627843240167-b1f9d28f732e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8dHJpYW5nbGV8ZW58MXwwfHx8MTc5NDE5NjQ3NXww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "A triangle has three sides.",
     "exampleZh": "三角形有三條邊。"
   },
@@ -12807,19 +12449,15 @@
     "zh": "長褲",
     "pos": "n",
     "theme": "clothes",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kit_trousers_beltongrey.svg/500px-Kit_trousers_beltongrey.svg.png",
-    "imageCredit": "Kit_trousers_beltongrey.png: Rolando\nderivative work: Beao · CC BY-SA 3.0",
+    "imageUrl": "https://images.unsplash.com/photo-1485842612006-6c50e8bf2576?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8dHJvdXNlcnN8ZW58MXwwfHx8MTc5NDE5NjU1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Andrew Neel on Unsplash (https://unsplash.com/@andrewtneel?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kit_trousers_beltongrey.svg/500px-Kit_trousers_beltongrey.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kit_trousers_pinstripesonwhite.svg/500px-Kit_trousers_pinstripesonwhite.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bordered_s_10.svg/500px-Bordered_s_10.svg.png"
+      "https://images.unsplash.com/photo-1485842612006-6c50e8bf2576?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8dHJvdXNlcnN8ZW58MXwwfHx8MTc5NDE5NjU1MXww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Kit_trousers_beltongrey.png: Rolando\nderivative work: Beao · CC BY-SA 3.0",
-      "Kit_trousers_pinstripesonwhite.png: Rolando\nderivative work: Chocimier · CC BY-SA 3.0",
-      "Nicu Buculei · CC0"
+      "Photo by Andrew Neel on Unsplash (https://unsplash.com/@andrewtneel?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kit_trousers_beltongrey.svg/500px-Kit_trousers_beltongrey.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1485842612006-6c50e8bf2576?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8N3x8dHJvdXNlcnN8ZW58MXwwfHx8MTc5NDE5NjU1MXww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "He packed grey trousers for the trip.",
     "exampleZh": "佢為旅程準備咗灰色長褲。"
   },
@@ -12873,19 +12511,15 @@
     "zh": "雨傘",
     "pos": "n",
     "theme": "clothes",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Parts_of_an_Umbrella-ar.svg/500px-Parts_of_an_Umbrella-ar.svg.png",
-    "imageCredit": "Original:Richtom80 at English Wikipedia\nDerivative: باسم · CC BY-SA 3.0",
+    "imageUrl": "https://images.unsplash.com/photo-1519692933481-e162a57d6721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8dW1icmVsbGF8ZW58MXwwfHx8MTc5NDE5Njc4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Osman Rana on Unsplash (https://unsplash.com/@osmanrana?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Parts_of_an_Umbrella-ar.svg/500px-Parts_of_an_Umbrella-ar.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Parts_of_an_Umbrella-kn.svg/500px-Parts_of_an_Umbrella-kn.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Parts_of_an_Umbrella-te.svg/500px-Parts_of_an_Umbrella-te.svg.png"
+      "https://images.unsplash.com/photo-1519692933481-e162a57d6721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8dW1icmVsbGF8ZW58MXwwfHx8MTc5NDE5Njc4MHww&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Original:Richtom80 at English Wikipedia\nDerivative: باسم · CC BY-SA 3.0",
-      "File:Parts_of_an_Umbrella.svg · CC BY-SA 4.0",
-      "Translated into Telugu by User:Mekala Harika · CC0"
+      "Photo by Osman Rana on Unsplash (https://unsplash.com/@osmanrana?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Parts_of_an_Umbrella-ar.svg/500px-Parts_of_an_Umbrella-ar.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1519692933481-e162a57d6721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8dW1icmVsbGF8ZW58MXwwfHx8MTc5NDE5Njc4MHww&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Take an umbrella if it looks rainy.",
     "exampleZh": "睇落會落雨就帶雨傘。"
   },
@@ -12895,19 +12529,15 @@
     "zh": "校服",
     "pos": "n",
     "theme": "school",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Definition_of_Uniform_continuity.svg/500px-Definition_of_Uniform_continuity.svg.png",
-    "imageCredit": "ぐしー · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1566827886031-7d0f288f76ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8dW5pZm9ybXxlbnwxfDB8fHwxNzk0MTk2OTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by ROBIN WORRALL on Unsplash (https://unsplash.com/@robin_rednine?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Definition_of_Uniform_continuity.svg/500px-Definition_of_Uniform_continuity.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Romanian_V%C3%A2n%C4%83tori_Uniform_-_Maior_%28Major%29_-_1876.svg/500px-Romanian_V%C3%A2n%C4%83tori_Uniform_-_Maior_%28Major%29_-_1876.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Romanian_V%C3%A2n%C4%83tori_Uniform_-_Soldat_%28Private%29_%28Field_Uniform%29_-_1876.svg/500px-Romanian_V%C3%A2n%C4%83tori_Uniform_-_Soldat_%28Private%29_%28Field_Uniform%29_-_1876.svg.png"
+      "https://images.unsplash.com/photo-1566827886031-7d0f288f76ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8dW5pZm9ybXxlbnwxfDB8fHwxNzk0MTk2OTMzfDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "ぐしー · CC BY-SA 4.0",
-      "Cdrei · CC0",
-      "Cdrei · CC0"
+      "Photo by ROBIN WORRALL on Unsplash (https://unsplash.com/@robin_rednine?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Definition_of_Uniform_continuity.svg/500px-Definition_of_Uniform_continuity.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1566827886031-7d0f288f76ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8MXx8dW5pZm9ybXxlbnwxfDB8fHwxNzk0MTk2OTMzfDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "Students wear a clean uniform to school.",
     "exampleZh": "學生着乾淨校服返學。"
   },
@@ -13069,19 +12699,15 @@
     "zh": "鄉村",
     "pos": "n",
     "theme": "places",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Melbourne_Village%2C_Florida.svg/500px-Flag_of_Melbourne_Village%2C_Florida.svg.png",
-    "imageCredit": "IndysNotHome · CC0",
+    "imageUrl": "https://images.unsplash.com/photo-1508325739122-c57a76313bf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8dmlsbGFnZXxlbnwxfDB8fHwxNzk0MTk3MTYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Olivier Collet on Unsplash (https://unsplash.com/@ocollet?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Melbourne_Village%2C_Florida.svg/500px-Flag_of_Melbourne_Village%2C_Florida.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Maki7-village-white.svg/500px-Maki7-village-white.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Round_Landmark_Icon_Village.svg/500px-Round_Landmark_Icon_Village.svg.png"
+      "https://images.unsplash.com/photo-1508325739122-c57a76313bf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8dmlsbGFnZXxlbnwxfDB8fHwxNzk0MTk3MTYyfDA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "IndysNotHome · CC0",
-      "Mapbox, https://github.com/mapbox/maki/graphs/contributors · CC0",
-      "Brian MacIntosh · CC0"
+      "Photo by Olivier Collet on Unsplash (https://unsplash.com/@ocollet?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Melbourne_Village%2C_Florida.svg/500px-Flag_of_Melbourne_Village%2C_Florida.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1508325739122-c57a76313bf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8dmlsbGFnZXxlbnwxfDB8fHwxNzk0MTk3MTYyfDA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "My grandparents live in a quiet village.",
     "exampleZh": "我爺爺嫲嫲住喺安靜鄉村。"
   },
@@ -13475,19 +13101,15 @@
     "zh": "冬天",
     "pos": "n",
     "theme": "weather",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Winter_pentathlon_pictogram.svg/500px-Winter_pentathlon_pictogram.svg.png",
-    "imageCredit": "Modern_pentathlon_pictogram.svg: Thadius856 (SVG conversion) &amp; Parutakupiu ( · Public domain",
+    "imageUrl": "https://images.unsplash.com/photo-1453306458620-5bbef13a5bca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8d2ludGVyfGVufDF8MHx8fDE3OTQxOTkwOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Bob Canning on Unsplash (https://unsplash.com/@bobcanning?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Winter_pentathlon_pictogram.svg/500px-Winter_pentathlon_pictogram.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/1984_Winter_Olympics_logo.svg/500px-1984_Winter_Olympics_logo.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/500px-2026_Winter_Olympics_logo.svg.png"
+      "https://images.unsplash.com/photo-1453306458620-5bbef13a5bca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8d2ludGVyfGVufDF8MHx8fDE3OTQxOTkwOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Modern_pentathlon_pictogram.svg: Thadius856 (SVG conversion) &amp; Parutakupiu ( · Public domain",
-      "Miroslav Antonić Roko · Public domain",
-      "Fondazione Milano-Cortina 2026 (FMC26 (Milano-Cortina 2026)) · Public domain"
+      "Photo by Bob Canning on Unsplash (https://unsplash.com/@bobcanning?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Winter_pentathlon_pictogram.svg/500px-Winter_pentathlon_pictogram.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1453306458620-5bbef13a5bca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8Mnx8d2ludGVyfGVufDF8MHx8fDE3OTQxOTkwOTJ8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "We wear warm coats in winter.",
     "exampleZh": "冬天我哋着暖褸。"
   },
@@ -13651,19 +13273,15 @@
     "zh": "黃色",
     "pos": "n",
     "theme": "colours",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ambigram_Home_Away_-_red_and_yellow_vector.svg/500px-Ambigram_Home_Away_-_red_and_yellow_vector.svg.png",
-    "imageCredit": "Basile Morin · CC BY-SA 4.0",
+    "imageUrl": "https://images.unsplash.com/photo-1521913626209-0fbf68f4c4b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8eWVsbG93fGVufDF8MHx8fDE3OTQyMDA5OTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageCredit": "Photo by Jason Leung on Unsplash (https://unsplash.com/@ninjason?utm_source=chanplanet&utm_medium=referral)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ambigram_Home_Away_-_red_and_yellow_vector.svg/500px-Ambigram_Home_Away_-_red_and_yellow_vector.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Color_icon_yellow.svg/500px-Color_icon_yellow.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Radar_icon_yellow.svg/500px-Radar_icon_yellow.svg.png"
+      "https://images.unsplash.com/photo-1521913626209-0fbf68f4c4b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8eWVsbG93fGVufDF8MHx8fDE3OTQyMDA5OTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
     ],
     "imageCredits": [
-      "Basile Morin · CC BY-SA 4.0",
-      "Badseed · Public domain",
-      "WhoAteMyButter · CC0"
+      "Photo by Jason Leung on Unsplash (https://unsplash.com/@ninjason?utm_source=chanplanet&utm_medium=referral)"
     ],
-    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ambigram_Home_Away_-_red_and_yellow_vector.svg/500px-Ambigram_Home_Away_-_red_and_yellow_vector.svg.png",
+    "thumbUrl": "https://images.unsplash.com/photo-1521913626209-0fbf68f4c4b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI2NTI1fDB8MXxzZWFyY2h8NHx8eWVsbG93fGVufDF8MHx8fDE3OTQyMDA5OTB8MA&ixlib=rb-4.1.0&q=80&w=400",
     "example": "A yellow bus stopped at our school.",
     "exampleZh": "黃色巴士喺學校停低。"
   },

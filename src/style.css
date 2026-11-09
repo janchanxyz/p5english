@@ -626,7 +626,7 @@ body {
 .kbd {
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 5px;
   margin-top: 8px;
   width: 100%;
 }
@@ -634,20 +634,20 @@ body {
 .kbd-row {
   display: flex;
   justify-content: center;
-  gap: 4px;
+  gap: 3px;
   width: 100%;
 }
 
 .kbd-key {
   appearance: none;
   border: none;
-  border-radius: 10px;
+  border-radius: 12px;
   flex: 1 1 0;
   min-width: 0;
-  max-width: 48px;
-  min-height: 42px;
+  max-width: 56px;
+  min-height: 52px;
   padding: 0;
-  font-size: clamp(0.85rem, 3.6vw, 1.05rem);
+  font-size: clamp(1rem, 4.2vw, 1.25rem);
   font-weight: 800;
   font-family: inherit;
   background: #fff;
@@ -666,8 +666,9 @@ body {
 
 .kbd-key.wide {
   flex: 1.6 1 0;
-  max-width: 72px;
-  font-size: clamp(0.68rem, 2.8vw, 0.82rem);
+  max-width: 88px;
+  min-height: 52px;
+  font-size: clamp(0.78rem, 3.2vw, 0.95rem);
   padding: 0 4px;
 }
 
@@ -862,11 +863,11 @@ body {
     font-size: 1.5rem;
   }
   .kbd-key {
-    max-width: 52px;
-    min-height: 46px;
+    max-width: 60px;
+    min-height: 56px;
   }
   .kbd-key.wide {
-    max-width: 84px;
+    max-width: 96px;
   }
 }
 
